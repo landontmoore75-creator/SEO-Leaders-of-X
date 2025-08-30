@@ -1,0 +1,80 @@
+<!doctype html>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>SEO Leaders of X — Summary</title>
+<style>
+  :root{--bg:#0b0c10;--card:#121318;--fg:#e7e9ea;--muted:#aeb3b8;--accent:#6aa4ff;}
+  body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.6 system-ui,-apple-system,Segoe UI,Roboto,Inter,sans-serif;}
+  .wrap{max-width:900px;margin:20px auto;padding:0 16px;}
+  .page-title{margin:10px 0 14px;font-weight:700}
+  .x-active{background:var(--card);padding:14px 16px;border-radius:14px;margin:12px 0 18px}
+  .x-active h3{margin:0 0 8px;font-size:18px}
+  .x-usr{list-style:none;padding:0;margin:0;display:flex;flex-wrap:wrap;gap:10px 16px}
+  .x-usr a{text-decoration:none;border-bottom:1px dotted var(--accent)}
+  .x-count{color:var(--muted)}
+  .x-themes{display:grid;grid-template-columns:1fr;gap:14px}
+  .x-card{background:var(--card);padding:16px;border-radius:14px;box-shadow:0 1px 4px rgba(0,0,0,.25)}
+  .x-card h4{margin:0 0 10px;font-size:18px}
+  .x-bullets{margin:0 0 8px 18px}
+  .x-quotes blockquote{margin:8px 0;padding-left:12px;border-left:3px solid var(--accent);color:var(--muted)}
+  .x-commentary{margin:8px 0 0}
+  .x-tldr{margin:20px 0 0;padding:14px 16px;background:var(--card);border-radius:14px}
+  .x-tldr h3{margin:0 0 6px}
+  .err{color:#ff9090}
+</style>
+<div class="wrap">
+  <h2 class="page-title">What are the SEO Leaders of X talking about?</h2>
+  <div id="x-summary">Loading…</div>
+</div>
+<script>
+(async () => {
+  const mount=document.querySelector('#x-summary');
+  try{
+    // IMPORTANT: keep summary.json in the SAME FOLDER as render.html
+    const res=await fetch('summary.json',{cache:'no-store'});
+    if(!res.ok) throw new Error('HTTP '+res.status);
+    const data=await res.json();
+
+    const themes=Array.isArray(data.themes)?data.themes:[];
+    const active=Array.isArray(data.active_users)?data.active_users:[];
+    const tldr=typeof data.tldr==='string'?data.tldr:'';
+
+    let html='';
+
+    if(active.length){
+      html+=`<section class="x-active">
+        <h3>Most Active (last 3 hours)</h3>
+        <ul class="x-usr">`+
+        active.slice(0,5).map(u=>{
+          const username=(u&&u.username)?String(u.username):'';
+          const tweets=Number.isInteger(u?.tweets)?u.tweets:0;
+          const url=(u&&u.url)?String(u.url):`https://twitter.com/${username.replace(/^@/,'')}`;
+          const label=username.startsWith('@')?username:'@'+username;
+          return `<li><a href="${url}" target="_blank" rel="noopener">${label}</a> <span class="x-count">(${tweets})</span></li>`;
+        }).join('')+`</ul>
+      </section>`;
+    }
+
+    html+=`<section class="x-themes">`+
+      themes.map(t=>{
+        const title=t?.title??'';
+        const bullets=Array.isArray(t?.bullets)?t.bullets:[];
+        const quotes=Array.isArray(t?.quotes)?t.quotes:[];
+        const commentary=typeof t?.commentary==='string'?t.commentary:'';
+        return `<article class="x-card">
+          <h4>${title}</h4>
+          ${bullets.length?`<ul class="x-bullets">${bullets.map(b=>`<li>${b}</li>`).join('')}</ul>`:''}
+          ${quotes.length?`<div class="x-quotes">${quotes.map(q=>`<blockquote>${q}</blockquote>`).join('')}</div>`:''}
+          ${commentary?`<p class="x-commentary">${commentary}</p>`:''}
+        </article>`;
+      }).join('')+`</section>`;
+
+    if(tldr){ html+=`<section class="x-tldr"><h3>TL;DR</h3><p>${tldr}</p></section>`; }
+
+    mount.innerHTML=html;
+  }catch(e){
+    mount.innerHTML=`<p class="err">Could not load summary.</p>`;
+    console.error(e);
+  }
+})();
+</script>
