@@ -31,7 +31,7 @@
   const mount=document.querySelector('#x-summary');
   try{
     // IMPORTANT: keep summary.json in the SAME FOLDER as render.html
-    const res=await fetch('summary.json',{cache:'no-store'});
+const res=await fetch('x-hourly-summary.json',{cache:'no-store'});
     if(!res.ok) throw new Error('HTTP '+res.status);
     const data=await res.json();
 
