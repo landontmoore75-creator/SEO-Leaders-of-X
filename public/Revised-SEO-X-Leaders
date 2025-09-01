@@ -1,20 +1,79 @@
 {
-  "generated_at": "2025-09-01T21:46:25.581Z",
+  "generated_at": "2025-09-01T22:47:10.567Z",
   "accounts_tracked": 11,
   "totals": {
     "tweets": 100,
-    "likes": 751,
-    "retweets": 32726,
-    "replies": 82
+    "likes": 767,
+    "retweets": 33445,
+    "replies": 83
   },
   "raw_tweets": [
+    {
+      "id": "1962644332122452275",
+      "text": "SendGrid apparently shut down their free account program, enrolled everyone in a \"Free Trial\", and now wants them to pay at least $20 / month per account / domain. \n\nThis means if you use SendGrid to send a few automatic emails internally for a service, you now have to pay $20 /",
+      "created_at": "2025-09-01T22:30:47.000Z",
+      "user": "YoungbloodJoe",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 61
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 188,
+            "end": 195,
+            "probability": 0.4512,
+            "type": "Other",
+            "normalized_text": "SendGrid"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1962644021253415181",
+      "text": "@danicicd https://t.co/KKbiL28NRe",
+      "created_at": "2025-09-01T22:29:33.000Z",
+      "user": "CyrusShepard",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 4
+      },
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 9,
+            "username": "danicicd",
+            "id": "605724637"
+          }
+        ],
+        "urls": [
+          {
+            "start": 10,
+            "end": 33,
+            "url": "https://t.co/KKbiL28NRe",
+            "expanded_url": "https://x.com/CyrusShepard/status/1962644021253415181/photo/1",
+            "display_url": "pic.x.com/KKbiL28NRe",
+            "media_key": "16_1962644015100370944"
+          }
+        ]
+      }
+    },
     {
       "id": "1962625774621728935",
       "text": "RT @lilyraynyc: Yep, so much pay-to-play in AI answers. What could go wrong?",
       "created_at": "2025-09-01T21:17:03.000Z",
       "user": "Suzzicks",
       "public_metrics": {
-        "retweet_count": 4,
+        "retweet_count": 5,
         "reply_count": 0,
         "like_count": 0,
         "quote_count": 0,
@@ -47,7 +106,7 @@
       "created_at": "2025-09-01T21:16:10.000Z",
       "user": "Suzzicks",
       "public_metrics": {
-        "retweet_count": 1048,
+        "retweet_count": 1067,
         "reply_count": 0,
         "like_count": 0,
         "quote_count": 0,
@@ -55,16 +114,6 @@
         "impression_count": 0
       },
       "entities": {
-        "urls": [
-          {
-            "start": 53,
-            "end": 76,
-            "url": "https://t.co/8UIZap5rWK",
-            "expanded_url": "https://x.com/gregisenberg/status/1962256357899342097/photo/1",
-            "display_url": "pic.x.com/8UIZap5rWK",
-            "media_key": "3_1962256350433382401"
-          }
-        ],
         "mentions": [
           {
             "start": 3,
@@ -88,6 +137,16 @@
             "type": "Other",
             "normalized_text": "reddit"
           }
+        ],
+        "urls": [
+          {
+            "start": 53,
+            "end": 76,
+            "url": "https://t.co/8UIZap5rWK",
+            "expanded_url": "https://x.com/gregisenberg/status/1962256357899342097/photo/1",
+            "display_url": "pic.x.com/8UIZap5rWK",
+            "media_key": "3_1962256350433382401"
+          }
         ]
       }
     },
@@ -97,7 +156,7 @@
       "created_at": "2025-09-01T21:15:06.000Z",
       "user": "Suzzicks",
       "public_metrics": {
-        "retweet_count": 7816,
+        "retweet_count": 8116,
         "reply_count": 0,
         "like_count": 0,
         "quote_count": 0,
@@ -105,6 +164,14 @@
         "impression_count": 0
       },
       "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 16,
+            "username": "Thebestfigen",
+            "id": "1551261351347109888"
+          }
+        ],
         "urls": [
           {
             "start": 112,
@@ -113,14 +180,6 @@
             "expanded_url": "https://x.com/Thebestfigen/status/1962295539967418546/video/1",
             "display_url": "pic.x.com/33cgrQbWXC",
             "media_key": "7_1962295503674019840"
-          }
-        ],
-        "mentions": [
-          {
-            "start": 3,
-            "end": 16,
-            "username": "Thebestfigen",
-            "id": "1551261351347109888"
           }
         ]
       }
@@ -131,7 +190,7 @@
       "created_at": "2025-09-01T21:14:25.000Z",
       "user": "Suzzicks",
       "public_metrics": {
-        "retweet_count": 1025,
+        "retweet_count": 1040,
         "reply_count": 0,
         "like_count": 0,
         "quote_count": 0,
@@ -160,7 +219,7 @@
         "like_count": 0,
         "quote_count": 0,
         "bookmark_count": 0,
-        "impression_count": 246
+        "impression_count": 539
       },
       "entities": {
         "mentions": [
@@ -190,10 +249,10 @@
       "public_metrics": {
         "retweet_count": 0,
         "reply_count": 0,
-        "like_count": 0,
+        "like_count": 2,
         "quote_count": 0,
         "bookmark_count": 0,
-        "impression_count": 2993
+        "impression_count": 6259
       },
       "entities": {
         "mentions": [
@@ -212,7 +271,7 @@
       "created_at": "2025-09-01T21:11:41.000Z",
       "user": "Suzzicks",
       "public_metrics": {
-        "retweet_count": 4773,
+        "retweet_count": 4839,
         "reply_count": 0,
         "like_count": 0,
         "quote_count": 0,
@@ -245,7 +304,7 @@
       "created_at": "2025-09-01T21:11:24.000Z",
       "user": "Suzzicks",
       "public_metrics": {
-        "retweet_count": 1789,
+        "retweet_count": 1803,
         "reply_count": 0,
         "like_count": 0,
         "quote_count": 0,
@@ -253,6 +312,14 @@
         "impression_count": 0
       },
       "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 16,
+            "username": "PuppiesIover",
+            "id": "1486911626846806017"
+          }
+        ],
         "urls": [
           {
             "start": 82,
@@ -261,14 +328,6 @@
             "expanded_url": "https://x.com/PuppiesIover/status/1962190857185931551/video/1",
             "display_url": "pic.x.com/JrLVa0pACE",
             "media_key": "7_1962190780853882881"
-          }
-        ],
-        "mentions": [
-          {
-            "start": 3,
-            "end": 16,
-            "username": "PuppiesIover",
-            "id": "1486911626846806017"
           }
         ]
       }
@@ -279,7 +338,7 @@
       "created_at": "2025-09-01T21:10:59.000Z",
       "user": "Suzzicks",
       "public_metrics": {
-        "retweet_count": 1573,
+        "retweet_count": 1624,
         "reply_count": 0,
         "like_count": 0,
         "quote_count": 0,
@@ -287,6 +346,14 @@
         "impression_count": 0
       },
       "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 13,
+            "username": "Dog__Dog0",
+            "id": "1572497985384103936"
+          }
+        ],
         "urls": [
           {
             "start": 51,
@@ -295,14 +362,6 @@
             "expanded_url": "https://x.com/Dog__Dog0/status/1962275097147842637/video/1",
             "display_url": "pic.x.com/bEK2pq0NZl",
             "media_key": "7_1962275065476636672"
-          }
-        ],
-        "mentions": [
-          {
-            "start": 3,
-            "end": 13,
-            "username": "Dog__Dog0",
-            "id": "1572497985384103936"
           }
         ]
       }
@@ -313,7 +372,7 @@
       "created_at": "2025-09-01T21:10:55.000Z",
       "user": "Suzzicks",
       "public_metrics": {
-        "retweet_count": 1234,
+        "retweet_count": 1246,
         "reply_count": 0,
         "like_count": 0,
         "quote_count": 0,
@@ -321,6 +380,14 @@
         "impression_count": 0
       },
       "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 18,
+            "username": "buitengebieden",
+            "id": "1130021685351079938"
+          }
+        ],
         "urls": [
           {
             "start": 52,
@@ -329,14 +396,6 @@
             "expanded_url": "https://x.com/buitengebieden/status/1962250582032367992/video/1",
             "display_url": "pic.x.com/53KZ7ZhV8a",
             "media_key": "13_1962250497600991233"
-          }
-        ],
-        "mentions": [
-          {
-            "start": 3,
-            "end": 18,
-            "username": "buitengebieden",
-            "id": "1130021685351079938"
           }
         ]
       }
@@ -347,7 +406,7 @@
       "created_at": "2025-09-01T21:09:34.000Z",
       "user": "Suzzicks",
       "public_metrics": {
-        "retweet_count": 1011,
+        "retweet_count": 1065,
         "reply_count": 0,
         "like_count": 0,
         "quote_count": 0,
@@ -355,6 +414,14 @@
         "impression_count": 0
       },
       "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 18,
+            "username": "buitengebieden",
+            "id": "1130021685351079938"
+          }
+        ],
         "urls": [
           {
             "start": 43,
@@ -363,14 +430,6 @@
             "expanded_url": "https://x.com/buitengebieden/status/1962452081383473454/video/1",
             "display_url": "pic.x.com/vRXbvxtWLS",
             "media_key": "13_1962452024936550400"
-          }
-        ],
-        "mentions": [
-          {
-            "start": 3,
-            "end": 18,
-            "username": "buitengebieden",
-            "id": "1130021685351079938"
           }
         ]
       }
@@ -381,7 +440,7 @@
       "created_at": "2025-09-01T21:08:52.000Z",
       "user": "Suzzicks",
       "public_metrics": {
-        "retweet_count": 684,
+        "retweet_count": 723,
         "reply_count": 0,
         "like_count": 0,
         "quote_count": 0,
@@ -389,6 +448,14 @@
         "impression_count": 0
       },
       "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 19,
+            "username": "gunsnrosesgirl3",
+            "id": "1179892477714718721"
+          }
+        ],
         "urls": [
           {
             "start": 80,
@@ -397,14 +464,6 @@
             "expanded_url": "https://x.com/MrLaalpotato/status/1962376117794324657/video/1",
             "display_url": "pic.x.com/AUT9eu2pDf",
             "media_key": "13_1962339967998582784"
-          }
-        ],
-        "mentions": [
-          {
-            "start": 3,
-            "end": 19,
-            "username": "gunsnrosesgirl3",
-            "id": "1179892477714718721"
           }
         ]
       }
@@ -415,7 +474,7 @@
       "created_at": "2025-09-01T21:07:32.000Z",
       "user": "Suzzicks",
       "public_metrics": {
-        "retweet_count": 24,
+        "retweet_count": 26,
         "reply_count": 0,
         "like_count": 0,
         "quote_count": 0,
@@ -462,7 +521,7 @@
       "created_at": "2025-09-01T21:07:14.000Z",
       "user": "Suzzicks",
       "public_metrics": {
-        "retweet_count": 851,
+        "retweet_count": 971,
         "reply_count": 0,
         "like_count": 0,
         "quote_count": 0,
@@ -502,7 +561,7 @@
       "created_at": "2025-09-01T21:05:02.000Z",
       "user": "Suzzicks",
       "public_metrics": {
-        "retweet_count": 12,
+        "retweet_count": 13,
         "reply_count": 0,
         "like_count": 0,
         "quote_count": 0,
@@ -542,7 +601,7 @@
       "created_at": "2025-09-01T21:02:17.000Z",
       "user": "Suzzicks",
       "public_metrics": {
-        "retweet_count": 13,
+        "retweet_count": 19,
         "reply_count": 0,
         "like_count": 0,
         "quote_count": 0,
@@ -587,7 +646,7 @@
         "like_count": 0,
         "quote_count": 0,
         "bookmark_count": 0,
-        "impression_count": 29
+        "impression_count": 33
       },
       "entities": {
         "mentions": [
@@ -639,19 +698,9 @@
         "like_count": 0,
         "quote_count": 0,
         "bookmark_count": 0,
-        "impression_count": 86
+        "impression_count": 96
       },
       "entities": {
-        "urls": [
-          {
-            "start": 79,
-            "end": 102,
-            "url": "https://t.co/wy4AvmRLhk",
-            "expanded_url": "https://x.com/rustybrick/status/1962609061980999883/photo/1",
-            "display_url": "pic.x.com/wy4AvmRLhk",
-            "media_key": "3_1962609057010790400"
-          }
-        ],
         "mentions": [
           {
             "start": 0,
@@ -664,6 +713,16 @@
             "end": 25,
             "username": "gregfinn",
             "id": "14444183"
+          }
+        ],
+        "urls": [
+          {
+            "start": 79,
+            "end": 102,
+            "url": "https://t.co/wy4AvmRLhk",
+            "expanded_url": "https://x.com/rustybrick/status/1962609061980999883/photo/1",
+            "display_url": "pic.x.com/wy4AvmRLhk",
+            "media_key": "3_1962609057010790400"
           }
         ]
       }
@@ -679,7 +738,7 @@
         "like_count": 1,
         "quote_count": 0,
         "bookmark_count": 0,
-        "impression_count": 44
+        "impression_count": 56
       },
       "entities": {
         "mentions": [
@@ -740,7 +799,7 @@
         "like_count": 1,
         "quote_count": 0,
         "bookmark_count": 0,
-        "impression_count": 20
+        "impression_count": 32
       },
       "entities": {
         "mentions": [
@@ -764,7 +823,7 @@
         "like_count": 0,
         "quote_count": 0,
         "bookmark_count": 0,
-        "impression_count": 20
+        "impression_count": 26
       },
       "entities": {
         "mentions": [
@@ -810,17 +869,14 @@
         "like_count": 4,
         "quote_count": 0,
         "bookmark_count": 1,
-        "impression_count": 796
+        "impression_count": 863
       },
       "entities": {
-        "urls": [
+        "hashtags": [
           {
-            "start": 281,
-            "end": 304,
-            "url": "https://t.co/xv1WBeSSFE",
-            "expanded_url": "https://x.com/aleyda/status/1962603034820952568/video/1",
-            "display_url": "pic.x.com/xv1WBeSSFE",
-            "media_key": "13_1962602444992475136"
+            "start": 58,
+            "end": 66,
+            "tag": "SEOFOMO"
           }
         ],
         "mentions": [
@@ -875,11 +931,14 @@
             "normalized_text": "AI"
           }
         ],
-        "hashtags": [
+        "urls": [
           {
-            "start": 58,
-            "end": 66,
-            "tag": "SEOFOMO"
+            "start": 281,
+            "end": 304,
+            "url": "https://t.co/xv1WBeSSFE",
+            "expanded_url": "https://x.com/aleyda/status/1962603034820952568/video/1",
+            "display_url": "pic.x.com/xv1WBeSSFE",
+            "media_key": "13_1962602444992475136"
           }
         ]
       }
@@ -895,7 +954,7 @@
         "like_count": 2,
         "quote_count": 0,
         "bookmark_count": 0,
-        "impression_count": 206
+        "impression_count": 227
       },
       "entities": {
         "urls": [
@@ -920,7 +979,7 @@
         "like_count": 1,
         "quote_count": 0,
         "bookmark_count": 0,
-        "impression_count": 29
+        "impression_count": 38
       },
       "entities": {
         "mentions": [
@@ -983,7 +1042,7 @@
         "like_count": 1,
         "quote_count": 0,
         "bookmark_count": 0,
-        "impression_count": 38
+        "impression_count": 39
       },
       "entities": {
         "mentions": [
@@ -1007,9 +1066,32 @@
         "like_count": 2,
         "quote_count": 0,
         "bookmark_count": 2,
-        "impression_count": 1316
+        "impression_count": 1416
       },
       "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 4,
+            "probability": 0.7216,
+            "type": "Other",
+            "normalized_text": "ICYMI"
+          },
+          {
+            "start": 7,
+            "end": 12,
+            "probability": 0.8548,
+            "type": "Organization",
+            "normalized_text": "Google"
+          },
+          {
+            "start": 24,
+            "end": 25,
+            "probability": 0.3964,
+            "type": "Other",
+            "normalized_text": "AI"
+          }
+        ],
         "urls": [
           {
             "start": 55,
@@ -1042,29 +1124,6 @@
             "display_url": "pic.x.com/9Hy0TkCWq8",
             "media_key": "3_1962124388033032192"
           }
-        ],
-        "annotations": [
-          {
-            "start": 0,
-            "end": 4,
-            "probability": 0.7216,
-            "type": "Other",
-            "normalized_text": "ICYMI"
-          },
-          {
-            "start": 7,
-            "end": 12,
-            "probability": 0.8548,
-            "type": "Organization",
-            "normalized_text": "Google"
-          },
-          {
-            "start": 24,
-            "end": 25,
-            "probability": 0.3964,
-            "type": "Other",
-            "normalized_text": "AI"
-          }
         ]
       }
     },
@@ -1079,9 +1138,39 @@
         "like_count": 0,
         "quote_count": 0,
         "bookmark_count": 0,
-        "impression_count": 1280
+        "impression_count": 1362
       },
       "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 4,
+            "probability": 0.6057,
+            "type": "Other",
+            "normalized_text": "ICYMI"
+          },
+          {
+            "start": 7,
+            "end": 12,
+            "probability": 0.8384,
+            "type": "Organization",
+            "normalized_text": "Google"
+          },
+          {
+            "start": 51,
+            "end": 56,
+            "probability": 0.8322,
+            "type": "Organization",
+            "normalized_text": "Google"
+          },
+          {
+            "start": 72,
+            "end": 77,
+            "probability": 0.8783,
+            "type": "Organization",
+            "normalized_text": "Google"
+          }
+        ],
         "urls": [
           {
             "start": 80,
@@ -1114,36 +1203,6 @@
             "display_url": "pic.x.com/6XrhXG3G0h",
             "media_key": "3_1961395364382085120"
           }
-        ],
-        "annotations": [
-          {
-            "start": 0,
-            "end": 4,
-            "probability": 0.6057,
-            "type": "Other",
-            "normalized_text": "ICYMI"
-          },
-          {
-            "start": 7,
-            "end": 12,
-            "probability": 0.8384,
-            "type": "Organization",
-            "normalized_text": "Google"
-          },
-          {
-            "start": 51,
-            "end": 56,
-            "probability": 0.8322,
-            "type": "Organization",
-            "normalized_text": "Google"
-          },
-          {
-            "start": 72,
-            "end": 77,
-            "probability": 0.8783,
-            "type": "Organization",
-            "normalized_text": "Google"
-          }
         ]
       }
     },
@@ -1158,9 +1217,32 @@
         "like_count": 2,
         "quote_count": 0,
         "bookmark_count": 0,
-        "impression_count": 289
+        "impression_count": 296
       },
       "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 15,
+            "username": "MordyOberstein",
+            "id": "1318701960"
+          },
+          {
+            "start": 34,
+            "end": 43,
+            "username": "gregfinn",
+            "id": "14444183"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 44,
+            "end": 50,
+            "probability": 0.9825,
+            "type": "Other",
+            "normalized_text": "YouTube"
+          }
+        ],
         "urls": [
           {
             "start": 63,
@@ -1193,29 +1275,6 @@
             "display_url": "pic.x.com/dRCrRUbA1c",
             "media_key": "3_1962582882066522112"
           }
-        ],
-        "mentions": [
-          {
-            "start": 0,
-            "end": 15,
-            "username": "MordyOberstein",
-            "id": "1318701960"
-          },
-          {
-            "start": 34,
-            "end": 43,
-            "username": "gregfinn",
-            "id": "14444183"
-          }
-        ],
-        "annotations": [
-          {
-            "start": 44,
-            "end": 50,
-            "probability": 0.9825,
-            "type": "Other",
-            "normalized_text": "YouTube"
-          }
         ]
       }
     },
@@ -1230,9 +1289,39 @@
         "like_count": 3,
         "quote_count": 0,
         "bookmark_count": 0,
-        "impression_count": 1312
+        "impression_count": 1396
       },
       "entities": {
+        "annotations": [
+          {
+            "start": 7,
+            "end": 20,
+            "probability": 0.9663,
+            "type": "Person",
+            "normalized_text": "Danny Sullivan"
+          },
+          {
+            "start": 39,
+            "end": 44,
+            "probability": 0.8539,
+            "type": "Organization",
+            "normalized_text": "Google"
+          },
+          {
+            "start": 54,
+            "end": 66,
+            "probability": 0.9402,
+            "type": "Other",
+            "normalized_text": "Google Search"
+          },
+          {
+            "start": 86,
+            "end": 93,
+            "probability": 0.8058,
+            "type": "Other",
+            "normalized_text": "WordCamp"
+          }
+        ],
         "urls": [
           {
             "start": 95,
@@ -1265,36 +1354,6 @@
             "display_url": "pic.x.com/JUFHl9owrg",
             "media_key": "3_1961964304195825664"
           }
-        ],
-        "annotations": [
-          {
-            "start": 7,
-            "end": 20,
-            "probability": 0.9663,
-            "type": "Person",
-            "normalized_text": "Danny Sullivan"
-          },
-          {
-            "start": 39,
-            "end": 44,
-            "probability": 0.8539,
-            "type": "Organization",
-            "normalized_text": "Google"
-          },
-          {
-            "start": 54,
-            "end": 66,
-            "probability": 0.9402,
-            "type": "Other",
-            "normalized_text": "Google Search"
-          },
-          {
-            "start": 86,
-            "end": 93,
-            "probability": 0.8058,
-            "type": "Other",
-            "normalized_text": "WordCamp"
-          }
         ]
       }
     },
@@ -1309,9 +1368,25 @@
         "like_count": 1,
         "quote_count": 0,
         "bookmark_count": 0,
-        "impression_count": 1161
+        "impression_count": 1220
       },
       "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 4,
+            "probability": 0.7727,
+            "type": "Other",
+            "normalized_text": "ICYMI"
+          },
+          {
+            "start": 7,
+            "end": 20,
+            "probability": 0.8783,
+            "type": "Other",
+            "normalized_text": "Google AI Mode"
+          }
+        ],
         "urls": [
           {
             "start": 36,
@@ -1344,22 +1419,6 @@
             "display_url": "pic.x.com/BC43fmsPMN",
             "media_key": "3_1961489653388709888"
           }
-        ],
-        "annotations": [
-          {
-            "start": 0,
-            "end": 4,
-            "probability": 0.7727,
-            "type": "Other",
-            "normalized_text": "ICYMI"
-          },
-          {
-            "start": 7,
-            "end": 20,
-            "probability": 0.8783,
-            "type": "Other",
-            "normalized_text": "Google AI Mode"
-          }
         ]
       }
     },
@@ -1374,9 +1433,25 @@
         "like_count": 1,
         "quote_count": 0,
         "bookmark_count": 0,
-        "impression_count": 1091
+        "impression_count": 1139
       },
       "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 4,
+            "probability": 0.6943,
+            "type": "Other",
+            "normalized_text": "ICYMI"
+          },
+          {
+            "start": 7,
+            "end": 20,
+            "probability": 0.8623,
+            "type": "Other",
+            "normalized_text": "Google AI Mode"
+          }
+        ],
         "urls": [
           {
             "start": 83,
@@ -1425,22 +1500,6 @@
             "display_url": "pic.x.com/rhI5CMfyx4",
             "media_key": "3_1962127626799071232"
           }
-        ],
-        "annotations": [
-          {
-            "start": 0,
-            "end": 4,
-            "probability": 0.6943,
-            "type": "Other",
-            "normalized_text": "ICYMI"
-          },
-          {
-            "start": 7,
-            "end": 20,
-            "probability": 0.8623,
-            "type": "Other",
-            "normalized_text": "Google AI Mode"
-          }
         ]
       }
     },
@@ -1455,9 +1514,25 @@
         "like_count": 0,
         "quote_count": 0,
         "bookmark_count": 0,
-        "impression_count": 1157
+        "impression_count": 1201
       },
       "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 4,
+            "probability": 0.5539,
+            "type": "Other",
+            "normalized_text": "ICYMI"
+          },
+          {
+            "start": 7,
+            "end": 22,
+            "probability": 0.7084,
+            "type": "Other",
+            "normalized_text": "Google Cloud FOO"
+          }
+        ],
         "urls": [
           {
             "start": 39,
@@ -1490,22 +1565,6 @@
             "display_url": "pic.x.com/AfdzelHKdL",
             "media_key": "3_1960312293251530752"
           }
-        ],
-        "annotations": [
-          {
-            "start": 0,
-            "end": 4,
-            "probability": 0.5539,
-            "type": "Other",
-            "normalized_text": "ICYMI"
-          },
-          {
-            "start": 7,
-            "end": 22,
-            "probability": 0.7084,
-            "type": "Other",
-            "normalized_text": "Google Cloud FOO"
-          }
         ]
       }
     },
@@ -1520,7 +1579,7 @@
         "like_count": 1,
         "quote_count": 0,
         "bookmark_count": 0,
-        "impression_count": 41
+        "impression_count": 45
       },
       "entities": {
         "mentions": [
@@ -1568,9 +1627,17 @@
         "like_count": 2,
         "quote_count": 0,
         "bookmark_count": 0,
-        "impression_count": 77
+        "impression_count": 86
       },
       "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 14,
+            "username": "MalteLandwehr",
+            "id": "18529809"
+          }
+        ],
         "urls": [
           {
             "start": 15,
@@ -1579,14 +1646,6 @@
             "expanded_url": "https://x.com/CyrusShepard/status/1962565452187738564/photo/1",
             "display_url": "pic.x.com/nGI2DgXpXu",
             "media_key": "16_1962565445833367554"
-          }
-        ],
-        "mentions": [
-          {
-            "start": 0,
-            "end": 14,
-            "username": "MalteLandwehr",
-            "id": "18529809"
           }
         ]
       }
@@ -1602,7 +1661,7 @@
         "like_count": 2,
         "quote_count": 0,
         "bookmark_count": 0,
-        "impression_count": 140
+        "impression_count": 146
       },
       "entities": {
         "mentions": [
@@ -1632,7 +1691,7 @@
         "like_count": 0,
         "quote_count": 0,
         "bookmark_count": 0,
-        "impression_count": 19
+        "impression_count": 20
       },
       "entities": {
         "mentions": [
@@ -1656,7 +1715,7 @@
         "like_count": 2,
         "quote_count": 0,
         "bookmark_count": 0,
-        "impression_count": 57
+        "impression_count": 64
       },
       "entities": {
         "mentions": [
@@ -1675,7 +1734,7 @@
       "created_at": "2025-09-01T16:18:09.000Z",
       "user": "Suzzicks",
       "public_metrics": {
-        "retweet_count": 7,
+        "retweet_count": 8,
         "reply_count": 0,
         "like_count": 0,
         "quote_count": 0,
@@ -1720,7 +1779,7 @@
         "like_count": 0,
         "quote_count": 0,
         "bookmark_count": 0,
-        "impression_count": 40
+        "impression_count": 48
       },
       "entities": {
         "mentions": [
@@ -1749,13 +1808,22 @@
       "user": "CyrusShepard",
       "public_metrics": {
         "retweet_count": 4,
-        "reply_count": 11,
-        "like_count": 66,
+        "reply_count": 12,
+        "like_count": 68,
         "quote_count": 1,
         "bookmark_count": 0,
-        "impression_count": 2866
+        "impression_count": 3129
       },
       "entities": {
+        "annotations": [
+          {
+            "start": 11,
+            "end": 13,
+            "probability": 0.3917,
+            "type": "Other",
+            "normalized_text": "SEO"
+          }
+        ],
         "urls": [
           {
             "start": 25,
@@ -1764,15 +1832,6 @@
             "expanded_url": "https://x.com/CyrusShepard/status/1962548779552551022/photo/1",
             "display_url": "pic.x.com/h88KcsgWTY",
             "media_key": "3_1962548665941442560"
-          }
-        ],
-        "annotations": [
-          {
-            "start": 11,
-            "end": 13,
-            "probability": 0.3917,
-            "type": "Other",
-            "normalized_text": "SEO"
           }
         ]
       }
@@ -1783,7 +1842,7 @@
       "created_at": "2025-09-01T16:06:00.000Z",
       "user": "Suzzicks",
       "public_metrics": {
-        "retweet_count": 7102,
+        "retweet_count": 7112,
         "reply_count": 0,
         "like_count": 0,
         "quote_count": 0,
@@ -1791,6 +1850,14 @@
         "impression_count": 0
       },
       "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 13,
+            "username": "TheFigen_",
+            "id": "1562038858988064768"
+          }
+        ],
         "urls": [
           {
             "start": 106,
@@ -1799,14 +1866,6 @@
             "expanded_url": "https://x.com/TheFigen_/status/1962210453792141367/video/1",
             "display_url": "pic.x.com/KV4djNyugj",
             "media_key": "13_1962210381415264256"
-          }
-        ],
-        "mentions": [
-          {
-            "start": 3,
-            "end": 13,
-            "username": "TheFigen_",
-            "id": "1562038858988064768"
           }
         ]
       }
@@ -1819,10 +1878,10 @@
       "public_metrics": {
         "retweet_count": 0,
         "reply_count": 0,
-        "like_count": 1,
+        "like_count": 2,
         "quote_count": 0,
         "bookmark_count": 0,
-        "impression_count": 136
+        "impression_count": 150
       },
       "entities": {
         "mentions": [
@@ -1846,7 +1905,7 @@
         "like_count": 0,
         "quote_count": 0,
         "bookmark_count": 0,
-        "impression_count": 13
+        "impression_count": 18
       },
       "entities": {
         "mentions": [
@@ -1870,19 +1929,9 @@
         "like_count": 3,
         "quote_count": 0,
         "bookmark_count": 3,
-        "impression_count": 258
+        "impression_count": 267
       },
       "entities": {
-        "urls": [
-          {
-            "start": 277,
-            "end": 300,
-            "url": "https://t.co/WzJApIfB3A",
-            "expanded_url": "https://x.com/YoungbloodJoe/status/1962531644251709906/photo/1",
-            "display_url": "pic.x.com/WzJApIfB3A",
-            "media_key": "3_1962256539521081344"
-          }
-        ],
         "annotations": [
           {
             "start": 50,
@@ -1898,6 +1947,16 @@
             "type": "Other",
             "normalized_text": "GoDaddy"
           }
+        ],
+        "urls": [
+          {
+            "start": 277,
+            "end": 300,
+            "url": "https://t.co/WzJApIfB3A",
+            "expanded_url": "https://x.com/YoungbloodJoe/status/1962531644251709906/photo/1",
+            "display_url": "pic.x.com/WzJApIfB3A",
+            "media_key": "3_1962256539521081344"
+          }
         ]
       }
     },
@@ -1907,23 +1966,14 @@
       "created_at": "2025-09-01T15:01:34.000Z",
       "user": "lilyraynyc",
       "public_metrics": {
-        "retweet_count": 4,
-        "reply_count": 4,
+        "retweet_count": 5,
+        "reply_count": 5,
         "like_count": 23,
         "quote_count": 0,
         "bookmark_count": 2,
-        "impression_count": 2578
+        "impression_count": 2720
       },
       "entities": {
-        "urls": [
-          {
-            "start": 61,
-            "end": 84,
-            "url": "https://t.co/Xlm42Q1v6Y",
-            "expanded_url": "https://twitter.com/maltelandwehr/status/1962486345093558653",
-            "display_url": "x.com/maltelandwehr/…"
-          }
-        ],
         "annotations": [
           {
             "start": 28,
@@ -1931,6 +1981,15 @@
             "probability": 0.7875,
             "type": "Organization",
             "normalized_text": "AI"
+          }
+        ],
+        "urls": [
+          {
+            "start": 61,
+            "end": 84,
+            "url": "https://t.co/Xlm42Q1v6Y",
+            "expanded_url": "https://twitter.com/maltelandwehr/status/1962486345093558653",
+            "display_url": "x.com/maltelandwehr/…"
           }
         ]
       }
@@ -1946,9 +2005,25 @@
         "like_count": 10,
         "quote_count": 0,
         "bookmark_count": 0,
-        "impression_count": 1812
+        "impression_count": 1870
       },
       "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 5,
+            "probability": 0.8365,
+            "type": "Organization",
+            "normalized_text": "Google"
+          },
+          {
+            "start": 17,
+            "end": 18,
+            "probability": 0.3749,
+            "type": "Organization",
+            "normalized_text": "AI"
+          }
+        ],
         "urls": [
           {
             "start": 48,
@@ -1997,22 +2072,6 @@
             "display_url": "pic.x.com/ZYkkmNVUWi",
             "media_key": "3_1962124324250206208"
           }
-        ],
-        "annotations": [
-          {
-            "start": 0,
-            "end": 5,
-            "probability": 0.8365,
-            "type": "Organization",
-            "normalized_text": "Google"
-          },
-          {
-            "start": 17,
-            "end": 18,
-            "probability": 0.3749,
-            "type": "Organization",
-            "normalized_text": "AI"
-          }
         ]
       }
     },
@@ -2027,9 +2086,32 @@
         "like_count": 4,
         "quote_count": 0,
         "bookmark_count": 1,
-        "impression_count": 2014
+        "impression_count": 2066
       },
       "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 5,
+            "probability": 0.7346,
+            "type": "Organization",
+            "normalized_text": "Google"
+          },
+          {
+            "start": 44,
+            "end": 49,
+            "probability": 0.8077,
+            "type": "Organization",
+            "normalized_text": "Google"
+          },
+          {
+            "start": 65,
+            "end": 70,
+            "probability": 0.7985,
+            "type": "Organization",
+            "normalized_text": "Google"
+          }
+        ],
         "urls": [
           {
             "start": 73,
@@ -2062,29 +2144,6 @@
             "display_url": "pic.x.com/hPfcsRPp6E",
             "media_key": "3_1961395295847108608"
           }
-        ],
-        "annotations": [
-          {
-            "start": 0,
-            "end": 5,
-            "probability": 0.7346,
-            "type": "Organization",
-            "normalized_text": "Google"
-          },
-          {
-            "start": 44,
-            "end": 49,
-            "probability": 0.8077,
-            "type": "Organization",
-            "normalized_text": "Google"
-          },
-          {
-            "start": 65,
-            "end": 70,
-            "probability": 0.7985,
-            "type": "Organization",
-            "normalized_text": "Google"
-          }
         ]
       }
     },
@@ -2099,7 +2158,7 @@
         "like_count": 2,
         "quote_count": 0,
         "bookmark_count": 1,
-        "impression_count": 111
+        "impression_count": 123
       },
       "entities": {
         "mentions": [
@@ -2168,9 +2227,39 @@
         "like_count": 5,
         "quote_count": 1,
         "bookmark_count": 2,
-        "impression_count": 1648
+        "impression_count": 1710
       },
       "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 13,
+            "probability": 0.9678,
+            "type": "Person",
+            "normalized_text": "Danny Sullivan"
+          },
+          {
+            "start": 32,
+            "end": 37,
+            "probability": 0.7299,
+            "type": "Organization",
+            "normalized_text": "Google"
+          },
+          {
+            "start": 47,
+            "end": 59,
+            "probability": 0.9426,
+            "type": "Other",
+            "normalized_text": "Google Search"
+          },
+          {
+            "start": 79,
+            "end": 86,
+            "probability": 0.8102,
+            "type": "Other",
+            "normalized_text": "WordCamp"
+          }
+        ],
         "urls": [
           {
             "start": 88,
@@ -2203,36 +2292,6 @@
             "display_url": "pic.x.com/n5MnKG4G9V",
             "media_key": "3_1961964249384718336"
           }
-        ],
-        "annotations": [
-          {
-            "start": 0,
-            "end": 13,
-            "probability": 0.9678,
-            "type": "Person",
-            "normalized_text": "Danny Sullivan"
-          },
-          {
-            "start": 32,
-            "end": 37,
-            "probability": 0.7299,
-            "type": "Organization",
-            "normalized_text": "Google"
-          },
-          {
-            "start": 47,
-            "end": 59,
-            "probability": 0.9426,
-            "type": "Other",
-            "normalized_text": "Google Search"
-          },
-          {
-            "start": 79,
-            "end": 86,
-            "probability": 0.8102,
-            "type": "Other",
-            "normalized_text": "WordCamp"
-          }
         ]
       }
     },
@@ -2247,7 +2306,7 @@
         "like_count": 1,
         "quote_count": 0,
         "bookmark_count": 0,
-        "impression_count": 113
+        "impression_count": 117
       },
       "entities": {
         "mentions": [
@@ -2271,7 +2330,7 @@
         "like_count": 10,
         "quote_count": 0,
         "bookmark_count": 2,
-        "impression_count": 2055
+        "impression_count": 2117
       },
       "entities": {
         "urls": [
@@ -2296,9 +2355,18 @@
         "like_count": 1,
         "quote_count": 0,
         "bookmark_count": 1,
-        "impression_count": 1334
+        "impression_count": 1354
       },
       "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 13,
+            "probability": 0.8498,
+            "type": "Other",
+            "normalized_text": "Google AI Mode"
+          }
+        ],
         "urls": [
           {
             "start": 29,
@@ -2331,15 +2399,6 @@
             "display_url": "pic.x.com/5qsih93oAb",
             "media_key": "3_1961489597868752896"
           }
-        ],
-        "annotations": [
-          {
-            "start": 0,
-            "end": 13,
-            "probability": 0.8498,
-            "type": "Other",
-            "normalized_text": "Google AI Mode"
-          }
         ]
       }
     },
@@ -2354,42 +2413,9 @@
         "like_count": 1,
         "quote_count": 0,
         "bookmark_count": 0,
-        "impression_count": 1186
+        "impression_count": 1202
       },
       "entities": {
-        "urls": [
-          {
-            "start": 162,
-            "end": 185,
-            "url": "https://t.co/WwB3hjV9Ex",
-            "expanded_url": "https://www.youtube.com/watch?v=JRGk4oSTeGE",
-            "display_url": "youtube.com/watch?v=JRGk4o…",
-            "images": [
-              {
-                "url": "https://pbs.twimg.com/news_img/1962515847668183040/qsJZ54NH?format=jpg&name=orig",
-                "width": 1280,
-                "height": 720
-              },
-              {
-                "url": "https://pbs.twimg.com/news_img/1962515847668183040/qsJZ54NH?format=jpg&name=150x150",
-                "width": 150,
-                "height": 150
-              }
-            ],
-            "status": 200,
-            "title": "It’s New 9/1: Google AI Mode model update, AI Mode compare & AI Overviews panels",
-            "description": "Today we covered how Google updated the AI Mode models last week. Google AI Mode now lets you compare local businesses and products. Google AI Overviews tes...",
-            "unwound_url": "https://www.youtube.com/watch?v=JRGk4oSTeGE"
-          },
-          {
-            "start": 213,
-            "end": 236,
-            "url": "https://t.co/DeiuIq2sE2",
-            "expanded_url": "https://x.com/rustybrick/status/1962515801103012306/photo/1",
-            "display_url": "pic.x.com/DeiuIq2sE2",
-            "media_key": "3_1962503436089303040"
-          }
-        ],
         "mentions": [
           {
             "start": 48,
@@ -2426,6 +2452,39 @@
             "type": "Other",
             "normalized_text": "AI"
           }
+        ],
+        "urls": [
+          {
+            "start": 162,
+            "end": 185,
+            "url": "https://t.co/WwB3hjV9Ex",
+            "expanded_url": "https://www.youtube.com/watch?v=JRGk4oSTeGE",
+            "display_url": "youtube.com/watch?v=JRGk4o…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1962515847668183040/qsJZ54NH?format=jpg&name=orig",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1962515847668183040/qsJZ54NH?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "It’s New 9/1: Google AI Mode model update, AI Mode compare & AI Overviews panels",
+            "description": "Today we covered how Google updated the AI Mode models last week. Google AI Mode now lets you compare local businesses and products. Google AI Overviews tes...",
+            "unwound_url": "https://www.youtube.com/watch?v=JRGk4oSTeGE"
+          },
+          {
+            "start": 213,
+            "end": 236,
+            "url": "https://t.co/DeiuIq2sE2",
+            "expanded_url": "https://x.com/rustybrick/status/1962515801103012306/photo/1",
+            "display_url": "pic.x.com/DeiuIq2sE2",
+            "media_key": "3_1962503436089303040"
+          }
         ]
       }
     },
@@ -2440,7 +2499,7 @@
         "like_count": 1,
         "quote_count": 0,
         "bookmark_count": 0,
-        "impression_count": 275
+        "impression_count": 289
       },
       "entities": {
         "mentions": [
@@ -2464,9 +2523,18 @@
         "like_count": 12,
         "quote_count": 0,
         "bookmark_count": 2,
-        "impression_count": 1622
+        "impression_count": 1647
       },
       "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 13,
+            "probability": 0.8522,
+            "type": "Other",
+            "normalized_text": "Google AI Mode"
+          }
+        ],
         "urls": [
           {
             "start": 76,
@@ -2507,15 +2575,6 @@
             "display_url": "pic.x.com/tr6J0KXNPo",
             "media_key": "3_1962127551909814272"
           }
-        ],
-        "annotations": [
-          {
-            "start": 0,
-            "end": 13,
-            "probability": 0.8522,
-            "type": "Other",
-            "normalized_text": "Google AI Mode"
-          }
         ]
       }
     },
@@ -2530,9 +2589,18 @@
         "like_count": 1,
         "quote_count": 0,
         "bookmark_count": 0,
-        "impression_count": 1246
+        "impression_count": 1261
       },
       "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 11,
+            "probability": 0.8899,
+            "type": "Other",
+            "normalized_text": "Google Cloud"
+          }
+        ],
         "urls": [
           {
             "start": 32,
@@ -2565,15 +2633,6 @@
             "display_url": "pic.x.com/SranvXhkNY",
             "media_key": "3_1960312228642537472"
           }
-        ],
-        "annotations": [
-          {
-            "start": 0,
-            "end": 11,
-            "probability": 0.8899,
-            "type": "Other",
-            "normalized_text": "Google Cloud"
-          }
         ]
       }
     },
@@ -2588,7 +2647,7 @@
         "like_count": 19,
         "quote_count": 1,
         "bookmark_count": 2,
-        "impression_count": 4188
+        "impression_count": 4361
       },
       "entities": {
         "urls": [
@@ -2609,31 +2668,14 @@
       "created_at": "2025-09-01T12:34:06.000Z",
       "user": "glenngabe",
       "public_metrics": {
-        "retweet_count": 19,
+        "retweet_count": 23,
         "reply_count": 3,
-        "like_count": 99,
-        "quote_count": 5,
-        "bookmark_count": 71,
-        "impression_count": 13910
+        "like_count": 105,
+        "quote_count": 6,
+        "bookmark_count": 78,
+        "impression_count": 15595
       },
       "entities": {
-        "urls": [
-          {
-            "start": 278,
-            "end": 301,
-            "url": "https://t.co/KBIQTLQhca",
-            "expanded_url": "https://x.com/glenngabe/status/1962494169458376813/photo/1",
-            "display_url": "pic.x.com/KBIQTLQhca",
-            "media_key": "3_1962492795127488512"
-          },
-          {
-            "start": 302,
-            "end": 325,
-            "url": "https://t.co/LTTk44Imzu",
-            "expanded_url": "https://twitter.com/rustybrick/status/1962478417238012306",
-            "display_url": "x.com/rustybrick/sta…"
-          }
-        ],
         "annotations": [
           {
             "start": 0,
@@ -2712,6 +2754,23 @@
             "type": "Other",
             "normalized_text": "LMNOPEO"
           }
+        ],
+        "urls": [
+          {
+            "start": 278,
+            "end": 301,
+            "url": "https://t.co/KBIQTLQhca",
+            "expanded_url": "https://x.com/glenngabe/status/1962494169458376813/photo/1",
+            "display_url": "pic.x.com/KBIQTLQhca",
+            "media_key": "3_1962492795127488512"
+          },
+          {
+            "start": 302,
+            "end": 325,
+            "url": "https://t.co/LTTk44Imzu",
+            "expanded_url": "https://twitter.com/rustybrick/status/1962478417238012306",
+            "display_url": "x.com/rustybrick/sta…"
+          }
         ]
       }
     },
@@ -2726,9 +2785,23 @@
         "like_count": 0,
         "quote_count": 0,
         "bookmark_count": 0,
-        "impression_count": 165
+        "impression_count": 184
       },
       "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 12,
+            "username": "ThomasEccel",
+            "id": "294524524"
+          },
+          {
+            "start": 13,
+            "end": 24,
+            "username": "SERPalerts",
+            "id": "1622430919612334080"
+          }
+        ],
         "urls": [
           {
             "start": 37,
@@ -2753,20 +2826,6 @@
             "description": "Google has now officially confirmed that Google Search Console is counting AI Mode data. Google said, \"AI Mode is now counting towards totals in Search Console.\" We saw this when AI Mode went fully live in the US late last week, which Google announced would happen at I/O.",
             "unwound_url": "https://www.seroundtable.com/google-search-console-counting-ai-mode-39599.html"
           }
-        ],
-        "mentions": [
-          {
-            "start": 0,
-            "end": 12,
-            "username": "ThomasEccel",
-            "id": "294524524"
-          },
-          {
-            "start": 13,
-            "end": 24,
-            "username": "SERPalerts",
-            "id": "1622430919612334080"
-          }
         ]
       }
     },
@@ -2781,18 +2840,9 @@
         "like_count": 11,
         "quote_count": 0,
         "bookmark_count": 4,
-        "impression_count": 2256
+        "impression_count": 2322
       },
       "entities": {
-        "urls": [
-          {
-            "start": 273,
-            "end": 296,
-            "url": "https://t.co/4rRfHnqzxM",
-            "expanded_url": "https://twitter.com/rustybrick/status/1962480808066678926",
-            "display_url": "x.com/rustybrick/sta…"
-          }
-        ],
         "annotations": [
           {
             "start": 173,
@@ -2800,6 +2850,15 @@
             "probability": 0.9471,
             "type": "Organization",
             "normalized_text": "Google"
+          }
+        ],
+        "urls": [
+          {
+            "start": 273,
+            "end": 296,
+            "url": "https://t.co/4rRfHnqzxM",
+            "expanded_url": "https://twitter.com/rustybrick/status/1962480808066678926",
+            "display_url": "x.com/rustybrick/sta…"
           }
         ]
       }
@@ -2815,34 +2874,9 @@
         "like_count": 3,
         "quote_count": 0,
         "bookmark_count": 2,
-        "impression_count": 2295
+        "impression_count": 2317
       },
       "entities": {
-        "urls": [
-          {
-            "start": 153,
-            "end": 176,
-            "url": "https://t.co/HS0Gi2NcQ3",
-            "expanded_url": "https://www.youtube.com/watch?v=Bx-CMZXr_sk",
-            "display_url": "youtube.com/watch?v=Bx-CMZ…",
-            "images": [
-              {
-                "url": "https://pbs.twimg.com/news_img/1961398352437821440/7QhYSOdq?format=jpg&name=orig",
-                "width": 1280,
-                "height": 720
-              },
-              {
-                "url": "https://pbs.twimg.com/news_img/1961398352437821440/7QhYSOdq?format=jpg&name=150x150",
-                "width": 150,
-                "height": 150
-              }
-            ],
-            "status": 200,
-            "title": "Aug 29: Google Spam Update, Changes To AI Mode, ChatGPT and Search Ads",
-            "description": "This week we had our first Google spam update in 8 months, the August 2025 spam update. This update touched down very quickly, likely within 24 hours. I also...",
-            "unwound_url": "https://www.youtube.com/watch?v=Bx-CMZXr_sk"
-          }
-        ],
         "annotations": [
           {
             "start": 31,
@@ -2879,6 +2913,31 @@
             "type": "Organization",
             "normalized_text": "Google"
           }
+        ],
+        "urls": [
+          {
+            "start": 153,
+            "end": 176,
+            "url": "https://t.co/HS0Gi2NcQ3",
+            "expanded_url": "https://www.youtube.com/watch?v=Bx-CMZXr_sk",
+            "display_url": "youtube.com/watch?v=Bx-CMZ…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1961398352437821440/7QhYSOdq?format=jpg&name=orig",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1961398352437821440/7QhYSOdq?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Aug 29: Google Spam Update, Changes To AI Mode, ChatGPT and Search Ads",
+            "description": "This week we had our first Google spam update in 8 months, the August 2025 spam update. This update touched down very quickly, likely within 24 hours. I also...",
+            "unwound_url": "https://www.youtube.com/watch?v=Bx-CMZXr_sk"
+          }
         ]
       }
     },
@@ -2893,9 +2952,17 @@
         "like_count": 0,
         "quote_count": 0,
         "bookmark_count": 0,
-        "impression_count": 34
+        "impression_count": 39
       },
       "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 14,
+            "username": "beyondcontent",
+            "id": "71228690"
+          }
+        ],
         "urls": [
           {
             "start": 83,
@@ -2904,14 +2971,6 @@
             "expanded_url": "https://x.com/glenngabe/status/1962488201295049199/photo/1",
             "display_url": "pic.x.com/zZ9blLaXB4",
             "media_key": "3_1962488045401202688"
-          }
-        ],
-        "mentions": [
-          {
-            "start": 0,
-            "end": 14,
-            "username": "beyondcontent",
-            "id": "71228690"
           }
         ]
       }
@@ -2927,19 +2986,9 @@
         "like_count": 13,
         "quote_count": 1,
         "bookmark_count": 3,
-        "impression_count": 1727
+        "impression_count": 1776
       },
       "entities": {
-        "urls": [
-          {
-            "start": 284,
-            "end": 307,
-            "url": "https://t.co/yDjpFsQGHY",
-            "expanded_url": "https://x.com/glenngabe/status/1962487125762318718/photo/1",
-            "display_url": "pic.x.com/yDjpFsQGHY",
-            "media_key": "3_1962486417881169920"
-          }
-        ],
         "annotations": [
           {
             "start": 10,
@@ -2962,6 +3011,16 @@
             "type": "Organization",
             "normalized_text": "AI"
           }
+        ],
+        "urls": [
+          {
+            "start": 284,
+            "end": 307,
+            "url": "https://t.co/yDjpFsQGHY",
+            "expanded_url": "https://x.com/glenngabe/status/1962487125762318718/photo/1",
+            "display_url": "pic.x.com/yDjpFsQGHY",
+            "media_key": "3_1962486417881169920"
+          }
         ]
       }
     },
@@ -2973,22 +3032,12 @@
       "public_metrics": {
         "retweet_count": 3,
         "reply_count": 2,
-        "like_count": 24,
+        "like_count": 25,
         "quote_count": 1,
-        "bookmark_count": 21,
-        "impression_count": 2455
+        "bookmark_count": 24,
+        "impression_count": 2566
       },
       "entities": {
-        "urls": [
-          {
-            "start": 280,
-            "end": 303,
-            "url": "https://t.co/CqP21flWFq",
-            "expanded_url": "https://x.com/aleyda/status/1962485039633146364/photo/1",
-            "display_url": "pic.x.com/CqP21flWFq",
-            "media_key": "3_1962485028736086016"
-          }
-        ],
         "annotations": [
           {
             "start": 49,
@@ -3011,6 +3060,16 @@
             "type": "Other",
             "normalized_text": "Chatgpt"
           }
+        ],
+        "urls": [
+          {
+            "start": 280,
+            "end": 303,
+            "url": "https://t.co/CqP21flWFq",
+            "expanded_url": "https://x.com/aleyda/status/1962485039633146364/photo/1",
+            "display_url": "pic.x.com/CqP21flWFq",
+            "media_key": "3_1962485028736086016"
+          }
         ]
       }
     },
@@ -3021,13 +3080,37 @@
       "user": "rustybrick",
       "public_metrics": {
         "retweet_count": 8,
-        "reply_count": 6,
+        "reply_count": 7,
         "like_count": 35,
         "quote_count": 3,
         "bookmark_count": 2,
-        "impression_count": 4824
+        "impression_count": 5378
       },
       "entities": {
+        "mentions": [
+          {
+            "start": 151,
+            "end": 162,
+            "username": "SERPalerts",
+            "id": "1622430919612334080"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 0,
+            "end": 5,
+            "probability": 0.8807,
+            "type": "Organization",
+            "normalized_text": "Google"
+          },
+          {
+            "start": 105,
+            "end": 115,
+            "probability": 0.5247,
+            "type": "Other",
+            "normalized_text": "AI Overview"
+          }
+        ],
         "urls": [
           {
             "start": 123,
@@ -3076,30 +3159,6 @@
             "display_url": "pic.x.com/1mSp3zmtNm",
             "media_key": "3_1962124217727504384"
           }
-        ],
-        "mentions": [
-          {
-            "start": 151,
-            "end": 162,
-            "username": "SERPalerts",
-            "id": "1622430919612334080"
-          }
-        ],
-        "annotations": [
-          {
-            "start": 0,
-            "end": 5,
-            "probability": 0.8807,
-            "type": "Organization",
-            "normalized_text": "Google"
-          },
-          {
-            "start": 105,
-            "end": 115,
-            "probability": 0.5247,
-            "type": "Other",
-            "normalized_text": "AI Overview"
-          }
         ]
       }
     },
@@ -3114,9 +3173,33 @@
         "like_count": 8,
         "quote_count": 1,
         "bookmark_count": 2,
-        "impression_count": 4020
+        "impression_count": 4112
       },
       "entities": {
+        "mentions": [
+          {
+            "start": 9,
+            "end": 16,
+            "username": "JohnMu",
+            "id": "5784292"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 0,
+            "end": 5,
+            "probability": 0.8722,
+            "type": "Organization",
+            "normalized_text": "Google"
+          },
+          {
+            "start": 66,
+            "end": 71,
+            "probability": 0.908,
+            "type": "Organization",
+            "normalized_text": "Google"
+          }
+        ],
         "urls": [
           {
             "start": 81,
@@ -3149,30 +3232,6 @@
             "display_url": "pic.x.com/lPJhZVJ0IM",
             "media_key": "3_1961395178465366016"
           }
-        ],
-        "mentions": [
-          {
-            "start": 9,
-            "end": 16,
-            "username": "JohnMu",
-            "id": "5784292"
-          }
-        ],
-        "annotations": [
-          {
-            "start": 0,
-            "end": 5,
-            "probability": 0.8722,
-            "type": "Organization",
-            "normalized_text": "Google"
-          },
-          {
-            "start": 66,
-            "end": 71,
-            "probability": 0.908,
-            "type": "Organization",
-            "normalized_text": "Google"
-          }
         ]
       }
     },
@@ -3187,19 +3246,9 @@
         "like_count": 4,
         "quote_count": 0,
         "bookmark_count": 0,
-        "impression_count": 811
+        "impression_count": 828
       },
       "entities": {
-        "urls": [
-          {
-            "start": 242,
-            "end": 265,
-            "url": "https://t.co/FnFwAaDzX1",
-            "expanded_url": "https://x.com/glenngabe/status/1962479346884464819/photo/1",
-            "display_url": "pic.x.com/FnFwAaDzX1",
-            "media_key": "3_1962479110363500545"
-          }
-        ],
         "annotations": [
           {
             "start": 27,
@@ -3215,6 +3264,16 @@
             "type": "Other",
             "normalized_text": "Googlebot"
           }
+        ],
+        "urls": [
+          {
+            "start": 242,
+            "end": 265,
+            "url": "https://t.co/FnFwAaDzX1",
+            "expanded_url": "https://x.com/glenngabe/status/1962479346884464819/photo/1",
+            "display_url": "pic.x.com/FnFwAaDzX1",
+            "media_key": "3_1962479110363500545"
+          }
         ]
       }
     },
@@ -3226,45 +3285,12 @@
       "public_metrics": {
         "retweet_count": 6,
         "reply_count": 0,
-        "like_count": 28,
+        "like_count": 29,
         "quote_count": 2,
         "bookmark_count": 4,
-        "impression_count": 11151
+        "impression_count": 12327
       },
       "entities": {
-        "urls": [
-          {
-            "start": 118,
-            "end": 141,
-            "url": "https://t.co/rshyDvgIIE",
-            "expanded_url": "https://www.seroundtable.com/google-danny-sullivan-wordcamp-40026.html",
-            "display_url": "seroundtable.com/google-danny-s…",
-            "images": [
-              {
-                "url": "https://pbs.twimg.com/news_img/1962478461202714624/qDoLU_PB?format=jpg&name=orig",
-                "width": 1500,
-                "height": 637
-              },
-              {
-                "url": "https://pbs.twimg.com/news_img/1962478461202714624/qDoLU_PB?format=jpg&name=150x150",
-                "width": 150,
-                "height": 150
-              }
-            ],
-            "status": 200,
-            "title": "Google's Danny Sullivan Speaks At WordCamp On How Google Search Keeps Evolving",
-            "description": "Danny Sullivan, the former Google Search Liaison, spoke at WordCamp on Friday on the topic of How and why Google Search keeps evolving. The video is up for anyone to watch, it is 45 minutes and doesn't have much new in it but it is a good refresher.",
-            "unwound_url": "https://www.seroundtable.com/google-danny-sullivan-wordcamp-40026.html"
-          },
-          {
-            "start": 164,
-            "end": 187,
-            "url": "https://t.co/WY7zX9GMYn",
-            "expanded_url": "https://x.com/rustybrick/status/1962478417238012306/photo/1",
-            "display_url": "pic.x.com/WY7zX9GMYn",
-            "media_key": "3_1961964399242919936"
-          }
-        ],
         "mentions": [
           {
             "start": 29,
@@ -3315,6 +3341,39 @@
             "type": "Other",
             "normalized_text": "WordCamp"
           }
+        ],
+        "urls": [
+          {
+            "start": 118,
+            "end": 141,
+            "url": "https://t.co/rshyDvgIIE",
+            "expanded_url": "https://www.seroundtable.com/google-danny-sullivan-wordcamp-40026.html",
+            "display_url": "seroundtable.com/google-danny-s…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1962478461202714624/qDoLU_PB?format=jpg&name=orig",
+                "width": 1500,
+                "height": 637
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1962478461202714624/qDoLU_PB?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Google's Danny Sullivan Speaks At WordCamp On How Google Search Keeps Evolving",
+            "description": "Danny Sullivan, the former Google Search Liaison, spoke at WordCamp on Friday on the topic of How and why Google Search keeps evolving. The video is up for anyone to watch, it is 45 minutes and doesn't have much new in it but it is a good refresher.",
+            "unwound_url": "https://www.seroundtable.com/google-danny-sullivan-wordcamp-40026.html"
+          },
+          {
+            "start": 164,
+            "end": 187,
+            "url": "https://t.co/WY7zX9GMYn",
+            "expanded_url": "https://x.com/rustybrick/status/1962478417238012306/photo/1",
+            "display_url": "pic.x.com/WY7zX9GMYn",
+            "media_key": "3_1961964399242919936"
+          }
         ]
       }
     },
@@ -3332,13 +3391,11 @@
         "impression_count": 191
       },
       "entities": {
-        "urls": [
+        "hashtags": [
           {
-            "start": 81,
-            "end": 104,
-            "url": "https://t.co/FxflbM0vDX",
-            "expanded_url": "https://twitter.com/aleyda/status/1962422533908570476",
-            "display_url": "x.com/aleyda/status/…"
+            "start": 36,
+            "end": 44,
+            "tag": "SEOFOMO"
           }
         ],
         "annotations": [
@@ -3350,11 +3407,13 @@
             "normalized_text": "SEOFOMO"
           }
         ],
-        "hashtags": [
+        "urls": [
           {
-            "start": 36,
-            "end": 44,
-            "tag": "SEOFOMO"
+            "start": 81,
+            "end": 104,
+            "url": "https://t.co/FxflbM0vDX",
+            "expanded_url": "https://twitter.com/aleyda/status/1962422533908570476",
+            "display_url": "x.com/aleyda/status/…"
           }
         ]
       }
@@ -3403,42 +3462,9 @@
         "like_count": 5,
         "quote_count": 1,
         "bookmark_count": 0,
-        "impression_count": 1643
+        "impression_count": 1665
       },
       "entities": {
-        "urls": [
-          {
-            "start": 107,
-            "end": 130,
-            "url": "https://t.co/VhyzDm5vmh",
-            "expanded_url": "https://www.seroundtable.com/google-ai-mode-model-updated-40025.html",
-            "display_url": "seroundtable.com/google-ai-mode…",
-            "images": [
-              {
-                "url": "https://pbs.twimg.com/news_img/1962475944163065856/kziAg8sA?format=jpg&name=orig",
-                "width": 2096,
-                "height": 1182
-              },
-              {
-                "url": "https://pbs.twimg.com/news_img/1962475944163065856/kziAg8sA?format=jpg&name=150x150",
-                "width": 150,
-                "height": 150
-              }
-            ],
-            "status": 200,
-            "title": "Google AI Mode Model Updated",
-            "description": "Google has supposedly updated the models that run AI Mode. Robby Stein from Google wrote on X, \"We’re seeing big improvements for complex STEM questions.\"",
-            "unwound_url": "https://www.seroundtable.com/google-ai-mode-model-updated-40025.html"
-          },
-          {
-            "start": 131,
-            "end": 154,
-            "url": "https://t.co/FoDjTBiIrt",
-            "expanded_url": "https://x.com/rustybrick/status/1962475900500312455/photo/1",
-            "display_url": "pic.x.com/FoDjTBiIrt",
-            "media_key": "3_1961489507292729345"
-          }
-        ],
         "mentions": [
           {
             "start": 82,
@@ -3475,6 +3501,39 @@
             "type": "Organization",
             "normalized_text": "Google"
           }
+        ],
+        "urls": [
+          {
+            "start": 107,
+            "end": 130,
+            "url": "https://t.co/VhyzDm5vmh",
+            "expanded_url": "https://www.seroundtable.com/google-ai-mode-model-updated-40025.html",
+            "display_url": "seroundtable.com/google-ai-mode…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1962475944163065856/kziAg8sA?format=jpg&name=orig",
+                "width": 2096,
+                "height": 1182
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1962475944163065856/kziAg8sA?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Google AI Mode Model Updated",
+            "description": "Google has supposedly updated the models that run AI Mode. Robby Stein from Google wrote on X, \"We’re seeing big improvements for complex STEM questions.\"",
+            "unwound_url": "https://www.seroundtable.com/google-ai-mode-model-updated-40025.html"
+          },
+          {
+            "start": 131,
+            "end": 154,
+            "url": "https://t.co/FoDjTBiIrt",
+            "expanded_url": "https://x.com/rustybrick/status/1962475900500312455/photo/1",
+            "display_url": "pic.x.com/FoDjTBiIrt",
+            "media_key": "3_1961489507292729345"
+          }
         ]
       }
     },
@@ -3489,7 +3548,7 @@
         "like_count": 0,
         "quote_count": 0,
         "bookmark_count": 0,
-        "impression_count": 23
+        "impression_count": 27
       },
       "entities": {
         "urls": [
@@ -3522,9 +3581,26 @@
         "like_count": 6,
         "quote_count": 1,
         "bookmark_count": 1,
-        "impression_count": 1357
+        "impression_count": 1380
       },
       "entities": {
+        "mentions": [
+          {
+            "start": 120,
+            "end": 131,
+            "username": "SERPalerts",
+            "id": "1622430919612334080"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 0,
+            "end": 13,
+            "probability": 0.8175,
+            "type": "Other",
+            "normalized_text": "Google AI Mode"
+          }
+        ],
         "urls": [
           {
             "start": 92,
@@ -3573,23 +3649,6 @@
             "display_url": "pic.x.com/lxEy4PveLi",
             "media_key": "13_1962127423715049472"
           }
-        ],
-        "mentions": [
-          {
-            "start": 120,
-            "end": 131,
-            "username": "SERPalerts",
-            "id": "1622430919612334080"
-          }
-        ],
-        "annotations": [
-          {
-            "start": 0,
-            "end": 13,
-            "probability": 0.8175,
-            "type": "Other",
-            "normalized_text": "Google AI Mode"
-          }
         ]
       }
     },
@@ -3604,7 +3663,7 @@
         "like_count": 3,
         "quote_count": 0,
         "bookmark_count": 0,
-        "impression_count": 1002
+        "impression_count": 1027
       },
       "entities": {
         "mentions": [
@@ -3640,9 +3699,18 @@
         "like_count": 3,
         "quote_count": 0,
         "bookmark_count": 0,
-        "impression_count": 1218
+        "impression_count": 1231
       },
       "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 15,
+            "probability": 0.8266,
+            "type": "Other",
+            "normalized_text": "Google Cloud FOO"
+          }
+        ],
         "urls": [
           {
             "start": 27,
@@ -3675,15 +3743,6 @@
             "display_url": "pic.x.com/VEclnbkgFr",
             "media_key": "3_1960312107838181376"
           }
-        ],
-        "annotations": [
-          {
-            "start": 0,
-            "end": 15,
-            "probability": 0.8266,
-            "type": "Other",
-            "normalized_text": "Google Cloud FOO"
-          }
         ]
       }
     },
@@ -3693,14 +3752,30 @@
       "created_at": "2025-09-01T10:55:28.000Z",
       "user": "brodieseo",
       "public_metrics": {
-        "retweet_count": 7,
+        "retweet_count": 8,
         "reply_count": 4,
-        "like_count": 78,
+        "like_count": 82,
         "quote_count": 1,
-        "bookmark_count": 103,
-        "impression_count": 7669
+        "bookmark_count": 109,
+        "impression_count": 8054
       },
       "entities": {
+        "annotations": [
+          {
+            "start": 56,
+            "end": 61,
+            "probability": 0.9422,
+            "type": "Organization",
+            "normalized_text": "Google"
+          },
+          {
+            "start": 78,
+            "end": 84,
+            "probability": 0.806,
+            "type": "Other",
+            "normalized_text": "ChatGPT"
+          }
+        ],
         "urls": [
           {
             "start": 280,
@@ -3725,22 +3800,6 @@
             "expanded_url": "https://x.com/brodieseo/status/1962469350230913480/photo/1",
             "display_url": "pic.x.com/3VdJYRdb3q",
             "media_key": "3_1962467278928379904"
-          }
-        ],
-        "annotations": [
-          {
-            "start": 56,
-            "end": 61,
-            "probability": 0.9422,
-            "type": "Organization",
-            "normalized_text": "Google"
-          },
-          {
-            "start": 78,
-            "end": 84,
-            "probability": 0.806,
-            "type": "Other",
-            "normalized_text": "ChatGPT"
           }
         ]
       }
@@ -3780,9 +3839,17 @@
         "like_count": 1,
         "quote_count": 0,
         "bookmark_count": 0,
-        "impression_count": 22
+        "impression_count": 23
       },
       "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 12,
+            "username": "b4k_khushal",
+            "id": "2790464547"
+          }
+        ],
         "urls": [
           {
             "start": 17,
@@ -3807,14 +3874,6 @@
             "description": "Google may show a new \"Profiles\" button in the Google Business Profiles NMX dashboard. It may show if you manage multiple Google Business Profiles and you are in this test.",
             "unwound_url": "https://www.seroundtable.com/google-nmx-business-profiles-button-40017.html"
           }
-        ],
-        "mentions": [
-          {
-            "start": 0,
-            "end": 12,
-            "username": "b4k_khushal",
-            "id": "2790464547"
-          }
         ]
       }
     },
@@ -3826,20 +3885,17 @@
       "public_metrics": {
         "retweet_count": 2,
         "reply_count": 3,
-        "like_count": 18,
+        "like_count": 19,
         "quote_count": 2,
         "bookmark_count": 3,
-        "impression_count": 2018
+        "impression_count": 2038
       },
       "entities": {
-        "urls": [
+        "hashtags": [
           {
-            "start": 278,
-            "end": 301,
-            "url": "https://t.co/QXQ2GxsK7T",
-            "expanded_url": "https://x.com/aleyda/status/1962422533908570476/photo/1",
-            "display_url": "pic.x.com/QXQ2GxsK7T",
-            "media_key": "3_1962422147139158016"
+            "start": 65,
+            "end": 73,
+            "tag": "SEOFOMO"
           }
         ],
         "mentions": [
@@ -3866,11 +3922,14 @@
             "normalized_text": "ugh Go"
           }
         ],
-        "hashtags": [
+        "urls": [
           {
-            "start": 65,
-            "end": 73,
-            "tag": "SEOFOMO"
+            "start": 278,
+            "end": 301,
+            "url": "https://t.co/QXQ2GxsK7T",
+            "expanded_url": "https://x.com/aleyda/status/1962422533908570476/photo/1",
+            "display_url": "pic.x.com/QXQ2GxsK7T",
+            "media_key": "3_1962422147139158016"
           }
         ]
       }
@@ -3916,7 +3975,7 @@
         "like_count": 0,
         "quote_count": 0,
         "bookmark_count": 0,
-        "impression_count": 60
+        "impression_count": 62
       },
       "entities": {
         "mentions": [
@@ -3935,23 +3994,14 @@
       "created_at": "2025-09-01T03:58:51.000Z",
       "user": "lilyraynyc",
       "public_metrics": {
-        "retweet_count": 23,
+        "retweet_count": 24,
         "reply_count": 6,
-        "like_count": 161,
+        "like_count": 162,
         "quote_count": 0,
-        "bookmark_count": 33,
-        "impression_count": 10311
+        "bookmark_count": 35,
+        "impression_count": 10580
       },
       "entities": {
-        "urls": [
-          {
-            "start": 45,
-            "end": 68,
-            "url": "https://t.co/8ddMv0cp0E",
-            "expanded_url": "https://twitter.com/rosshudgens/status/1962207242402324737",
-            "display_url": "x.com/rosshudgens/st…"
-          }
-        ],
         "annotations": [
           {
             "start": 16,
@@ -3959,6 +4009,15 @@
             "probability": 0.5752,
             "type": "Other",
             "normalized_text": "SEO"
+          }
+        ],
+        "urls": [
+          {
+            "start": 45,
+            "end": 68,
+            "url": "https://t.co/8ddMv0cp0E",
+            "expanded_url": "https://twitter.com/rosshudgens/status/1962207242402324737",
+            "display_url": "x.com/rosshudgens/st…"
           }
         ]
       }
@@ -3974,7 +4033,7 @@
         "like_count": 44,
         "quote_count": 0,
         "bookmark_count": 2,
-        "impression_count": 2924
+        "impression_count": 2959
       },
       "entities": {
         "annotations": [
@@ -4049,6 +4108,15 @@
         "impression_count": 188
       },
       "entities": {
+        "annotations": [
+          {
+            "start": 87,
+            "end": 92,
+            "probability": 0.9347,
+            "type": "Organization",
+            "normalized_text": "Amazon"
+          }
+        ],
         "urls": [
           {
             "start": 245,
@@ -4065,15 +4133,6 @@
             "expanded_url": "https://x.com/NickLeRoy/status/1962262390600258009/photo/1",
             "display_url": "pic.x.com/43BW91dao9",
             "media_key": "3_1962262385542025216"
-          }
-        ],
-        "annotations": [
-          {
-            "start": 87,
-            "end": 92,
-            "probability": 0.9347,
-            "type": "Organization",
-            "normalized_text": "Amazon"
           }
         ]
       }
@@ -4238,7 +4297,7 @@
       "created_at": "2025-08-31T20:44:45.000Z",
       "user": "Suzzicks",
       "public_metrics": {
-        "retweet_count": 2560,
+        "retweet_count": 2561,
         "reply_count": 0,
         "like_count": 0,
         "quote_count": 0,
@@ -4246,6 +4305,14 @@
         "impression_count": 0
       },
       "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 18,
+            "username": "buitengebieden",
+            "id": "1130021685351079938"
+          }
+        ],
         "urls": [
           {
             "start": 49,
@@ -4254,14 +4321,6 @@
             "expanded_url": "https://x.com/buitengebieden/status/1961890520268959934/video/1",
             "display_url": "pic.x.com/QzJOe8wnvA",
             "media_key": "13_1961890414916444161"
-          }
-        ],
-        "mentions": [
-          {
-            "start": 3,
-            "end": 18,
-            "username": "buitengebieden",
-            "id": "1130021685351079938"
           }
         ]
       }
@@ -4280,6 +4339,14 @@
         "impression_count": 0
       },
       "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 13,
+            "username": "Yoda4ever",
+            "id": "358175664"
+          }
+        ],
         "urls": [
           {
             "start": 40,
@@ -4288,14 +4355,6 @@
             "expanded_url": "https://x.com/Yoda4ever/status/1961876595838419050/video/1",
             "display_url": "pic.x.com/7HQdvP8Qhy",
             "media_key": "13_1936880982084161536"
-          }
-        ],
-        "mentions": [
-          {
-            "start": 3,
-            "end": 13,
-            "username": "Yoda4ever",
-            "id": "358175664"
           }
         ]
       }
@@ -4314,31 +4373,6 @@
         "impression_count": 0
       },
       "entities": {
-        "urls": [
-          {
-            "start": 76,
-            "end": 99,
-            "url": "https://t.co/dPxwvlf9ac",
-            "expanded_url": "https://agents.md/",
-            "display_url": "agents.md",
-            "images": [
-              {
-                "url": "https://pbs.twimg.com/news_img/1960507619971399680/-ewe0k6f?format=jpg&name=orig",
-                "width": 3600,
-                "height": 2025
-              },
-              {
-                "url": "https://pbs.twimg.com/news_img/1960507619971399680/-ewe0k6f?format=jpg&name=150x150",
-                "width": 150,
-                "height": 150
-              }
-            ],
-            "status": 200,
-            "title": "AGENTS.md",
-            "description": "AGENTS.md is a simple, open format for guiding coding agents. Think of it as a README for agents.",
-            "unwound_url": "https://agents.md/"
-          }
-        ],
         "mentions": [
           {
             "start": 3,
@@ -4369,6 +4403,31 @@
             "type": "Other",
             "normalized_text": "LLM"
           }
+        ],
+        "urls": [
+          {
+            "start": 76,
+            "end": 99,
+            "url": "https://t.co/dPxwvlf9ac",
+            "expanded_url": "https://agents.md/",
+            "display_url": "agents.md",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1960507619971399680/-ewe0k6f?format=jpg&name=orig",
+                "width": 3600,
+                "height": 2025
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1960507619971399680/-ewe0k6f?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "AGENTS.md",
+            "description": "AGENTS.md is a simple, open format for guiding coding agents. Think of it as a README for agents.",
+            "unwound_url": "https://agents.md/"
+          }
         ]
       }
     },
@@ -4383,7 +4442,7 @@
         "like_count": 0,
         "quote_count": 0,
         "bookmark_count": 0,
-        "impression_count": 669
+        "impression_count": 674
       },
       "entities": {
         "mentions": [
@@ -4416,7 +4475,7 @@
         "like_count": 12,
         "quote_count": 0,
         "bookmark_count": 0,
-        "impression_count": 498
+        "impression_count": 500
       },
       "entities": {
         "annotations": [
@@ -4448,7 +4507,7 @@
         "like_count": 3,
         "quote_count": 0,
         "bookmark_count": 0,
-        "impression_count": 294
+        "impression_count": 295
       },
       "entities": {
         "mentions": [
@@ -4469,148 +4528,43 @@
           }
         ]
       }
-    },
-    {
-      "id": "1962204629036380281",
-      "text": "@TylerBolli37223 @grantosan @chamath There are a few issues: \n1. The hallucinations and inconsistencies - is the data accurate. We are seeing an increase in Google searches for things because consumers are already untrusting of AI systems. Google is now a sanity check for many. When a search result is wrong a",
-      "created_at": "2025-08-31T17:23:34.000Z",
-      "user": "YoungbloodJoe",
-      "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 1,
-        "like_count": 1,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "impression_count": 27
-      },
-      "entities": {
-        "mentions": [
-          {
-            "start": 0,
-            "end": 16,
-            "username": "TylerBolli37223",
-            "id": "1862613657256853504"
-          },
-          {
-            "start": 17,
-            "end": 27,
-            "username": "grantosan",
-            "id": "264981306"
-          },
-          {
-            "start": 28,
-            "end": 36,
-            "username": "chamath",
-            "id": "3291691"
-          }
-        ],
-        "annotations": [
-          {
-            "start": 157,
-            "end": 162,
-            "probability": 0.4839,
-            "type": "Organization",
-            "normalized_text": "Google"
-          },
-          {
-            "start": 228,
-            "end": 229,
-            "probability": 0.7257,
-            "type": "Organization",
-            "normalized_text": "AI"
-          },
-          {
-            "start": 240,
-            "end": 245,
-            "probability": 0.9672,
-            "type": "Organization",
-            "normalized_text": "Google"
-          }
-        ]
-      }
-    },
-    {
-      "id": "1962199082102854036",
-      "text": "@grantosan @chamath The idea is an entirely new type of consumer discovery I referred to as a \"Task Completion Engine\" at some point consumers will become comfortable with an 'AI' system doing a task and the way in which that task is done and will trust it for that. The only question atm is what",
-      "created_at": "2025-08-31T17:01:31.000Z",
-      "user": "YoungbloodJoe",
-      "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 1,
-        "like_count": 3,
-        "quote_count": 0,
-        "bookmark_count": 0,
-        "impression_count": 239
-      },
-      "entities": {
-        "mentions": [
-          {
-            "start": 0,
-            "end": 10,
-            "username": "grantosan",
-            "id": "264981306"
-          },
-          {
-            "start": 11,
-            "end": 19,
-            "username": "chamath",
-            "id": "3291691"
-          }
-        ],
-        "annotations": [
-          {
-            "start": 95,
-            "end": 116,
-            "probability": 0.5889,
-            "type": "Other",
-            "normalized_text": "Task Completion Engine"
-          },
-          {
-            "start": 176,
-            "end": 177,
-            "probability": 0.6767,
-            "type": "Organization",
-            "normalized_text": "AI"
-          }
-        ]
-      }
     }
   ],
   "account_leaderboard": [
     {
       "handle": "rustybrick",
       "tweets": 26,
-      "likes": 134,
+      "likes": 135,
       "retweets": 23
     },
     {
       "handle": "Suzzicks",
       "tweets": 22,
       "likes": 0,
-      "retweets": 32619
+      "retweets": 33331
     },
     {
       "handle": "YoungbloodJoe",
-      "tweets": 19,
-      "likes": 27,
+      "tweets": 18,
+      "likes": 25,
       "retweets": 0
     },
     {
       "handle": "glenngabe",
       "tweets": 9,
-      "likes": 148,
-      "retweets": 26
+      "likes": 155,
+      "retweets": 30
     },
     {
       "handle": "CyrusShepard",
-      "tweets": 6,
-      "likes": 73,
+      "tweets": 7,
+      "likes": 76,
       "retweets": 4
     },
     {
       "handle": "aleyda",
       "tweets": 4,
-      "likes": 47,
+      "likes": 49,
       "retweets": 5
     },
     {
@@ -4622,14 +4576,14 @@
     {
       "handle": "lilyraynyc",
       "tweets": 4,
-      "likes": 238,
-      "retweets": 27
+      "likes": 239,
+      "retweets": 29
     },
     {
       "handle": "brodieseo",
       "tweets": 3,
-      "likes": 81,
-      "retweets": 18
+      "likes": 85,
+      "retweets": 19
     },
     {
       "handle": "NickLeRoy",
