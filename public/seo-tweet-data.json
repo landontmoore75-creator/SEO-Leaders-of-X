@@ -1,126 +1,176 @@
 {
-  "last_updated": "2024-09-03T12:00:00.000Z",
+  "last_updated": "2025-09-03T18:42:38.865Z",
   "stats": {
-    "total_tweets": 5,
-    "unique_users": 3,
+    "total_tweets": 6,
+    "unique_users": 2,
     "time_range": "24 hours"
   },
   "sentiment": {
     "positive": 70,
     "negative": 10,
     "neutral": 20,
-    "summary": "Generally positive discussion about SEO developments and industry trends."
+    "summary": "Generally positive SEO discussion with focus on algorithm updates and technical optimization"
   },
   "themes": [
     {
       "title": "Google Algorithm Updates",
-      "description": "Discussion around recent search algorithm changes and their impact on rankings.",
-      "tweet_count": 3,
+      "description": "Discussion of recent search algorithm changes and ranking factors",
+      "tweet_count": 2,
       "relevance_score": 9
     },
     {
       "title": "Technical SEO",
-      "description": "Focus on technical optimization strategies and implementation best practices.",
-      "tweet_count": 2,
+      "description": "Focus on technical implementation and optimization strategies",
+      "tweet_count": 1,
       "relevance_score": 8
     }
   ],
   "insights": [
-    "SEO community is actively discussing recent Google algorithm changes",
-    "Technical SEO implementation remains a key focus area for practitioners",
-    "Industry leaders are emphasizing the importance of user experience signals",
-    "There's growing discussion about AI's impact on search optimization"
+    "SEO community actively discussing Google's latest algorithm updates",
+    "Technical SEO implementation remains a priority focus area",
+    "User experience signals increasingly important for rankings",
+    "Industry leaders sharing practical optimization strategies"
   ],
   "trending_topics": [
-    "Google Algorithm Updates",
+    "Google Updates",
     "Technical SEO",
     "User Experience"
   ],
-  "community_pulse": "The SEO community is engaged in discussions about recent algorithm updates while focusing on technical implementation and user experience optimization. There's a positive sentiment around adapting to changes and sharing best practices.",
+  "community_pulse": "The SEO community is engaged in constructive discussions about recent algorithm changes and technical optimization strategies.",
   "top_contributors": [
     {
-      "username": "Marie_Haynes",
-      "tweet_count": 2,
-      "profile_url": "https://twitter.com/Marie_Haynes"
-    },
-    {
       "username": "rustybrick",
-      "tweet_count": 2,
+      "tweet_count": 5,
       "profile_url": "https://twitter.com/rustybrick"
     },
     {
-      "username": "glenngabe",
+      "username": "Kevin_Indig",
       "tweet_count": 1,
-      "profile_url": "https://twitter.com/glenngabe"
+      "profile_url": "https://twitter.com/Kevin_Indig"
     }
   ],
   "recent_tweets": [
     {
-      "id": "1963241026266501205",
-      "text": "New insights on how Google's ranking systems work - fascinating breakdown of the signals and scoring mechanisms.",
-      "username": "Marie_Haynes",
-      "name": "Marie Haynes",
-      "created_at": "2024-09-03T12:30:00.000Z",
-      "metrics": {
-        "like_count": 45,
-        "retweet_count": 12,
-        "reply_count": 8
-      },
-      "url": "https://twitter.com/Marie_Haynes/status/1963241026266501205"
-    },
-    {
-      "id": "1963238165512686639",
-      "text": "Technical SEO tip: Core Web Vitals optimization continues to be crucial for rankings. Focus on LCP, FID, and CLS improvements.",
+      "id": "1963309045579755782",
       "username": "rustybrick",
       "name": "Barry Schwartz",
-      "created_at": "2024-09-03T12:15:00.000Z",
-      "metrics": {
-        "like_count": 23,
-        "retweet_count": 8,
-        "reply_count": 5
-      },
-      "url": "https://twitter.com/rustybrick/status/1963238165512686639"
+      "text": "@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU",
+      "created_at": "2025-09-03T18:32:07.000Z",
+      "author_id": "",
+      "metrics": {},
+      "url": "https://twitter.com/rustybrick/status/1963309045579755782"
+    },
+    {
+      "id": "1963308889539006527",
+      "username": "rustybrick",
+      "name": "Barry Schwartz",
+      "text": "@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU",
+      "created_at": "2025-09-03T18:31:30.000Z",
+      "author_id": "",
+      "metrics": {},
+      "url": "https://twitter.com/rustybrick/status/1963308889539006527"
+    },
+    {
+      "id": "1963305114820628705",
+      "username": "rustybrick",
+      "name": "Barry Schwartz",
+      "text": "@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU",
+      "created_at": "2025-09-03T18:16:30.000Z",
+      "author_id": "",
+      "metrics": {},
+      "url": "https://twitter.com/rustybrick/status/1963305114820628705"
+    },
+    {
+      "id": "1963304655275929847",
+      "username": "Kevin_Indig",
+      "name": "Kevin_Indig",
+      "text": "@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU",
+      "created_at": "2025-09-03T18:14:40.000Z",
+      "author_id": "",
+      "metrics": {},
+      "url": "https://twitter.com/Kevin_Indig/status/1963304655275929847"
+    },
+    {
+      "id": "1963301214654701796",
+      "username": "rustybrick",
+      "name": "Barry Schwartz",
+      "text": "@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU",
+      "created_at": "2025-09-03T18:01:00.000Z",
+      "author_id": "",
+      "metrics": {},
+      "url": "https://twitter.com/rustybrick/status/1963301214654701796"
+    },
+    {
+      "id": "1963297438803853320",
+      "username": "rustybrick",
+      "name": "Barry Schwartz",
+      "text": "@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU",
+      "created_at": "2025-09-03T17:46:00.000Z",
+      "author_id": "",
+      "metrics": {},
+      "url": "https://twitter.com/rustybrick/status/1963297438803853320"
     }
   ],
   "raw_data": [
     {
-      "id": "1963241026266501205",
-      "text": "New insights on how Google's ranking systems work - fascinating breakdown of the signals and scoring mechanisms.",
-      "created_at": "2024-09-03T12:30:00.000Z",
-      "author_id": "213142014",
-      "username": "Marie_Haynes",
-      "name": "Marie Haynes",
-      "metrics": {
-        "like_count": 45,
-        "retweet_count": 12,
-        "reply_count": 8
-      }
-    },
-    {
-      "id": "1963238165512686639",
-      "text": "Technical SEO tip: Core Web Vitals optimization continues to be crucial for rankings. Focus on LCP, FID, and CLS improvements.",
-      "created_at": "2024-09-03T12:15:00.000Z",
-      "author_id": "922011",
+      "id": "1963309045579755782",
       "username": "rustybrick",
       "name": "Barry Schwartz",
-      "metrics": {
-        "like_count": 23,
-        "retweet_count": 8,
-        "reply_count": 5
-      }
+      "text": "@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU",
+      "created_at": "2025-09-03T18:32:07.000Z",
+      "author_id": "",
+      "metrics": {},
+      "url": "https://twitter.com/rustybrick/status/1963309045579755782"
     },
     {
-      "id": "1963235124567890123",
-      "text": "Algorithm update analysis: seeing some interesting shifts in local search results. Monitoring for broader impact.",
-      "created_at": "2024-09-03T12:00:00.000Z",
-      "author_id": "14592937",
-      "username": "glenngabe",
-      "name": "Glenn Gabe",
-      "metrics": {
-        "like_count": 31,
-        "retweet_count": 6,
-        "reply_count": 12
-      }
+      "id": "1963308889539006527",
+      "username": "rustybrick",
+      "name": "Barry Schwartz",
+      "text": "@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU",
+      "created_at": "2025-09-03T18:31:30.000Z",
+      "author_id": "",
+      "metrics": {},
+      "url": "https://twitter.com/rustybrick/status/1963308889539006527"
+    },
+    {
+      "id": "1963305114820628705",
+      "username": "rustybrick",
+      "name": "Barry Schwartz",
+      "text": "@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU",
+      "created_at": "2025-09-03T18:16:30.000Z",
+      "author_id": "",
+      "metrics": {},
+      "url": "https://twitter.com/rustybrick/status/1963305114820628705"
+    },
+    {
+      "id": "1963304655275929847",
+      "username": "Kevin_Indig",
+      "name": "Kevin_Indig",
+      "text": "@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU",
+      "created_at": "2025-09-03T18:14:40.000Z",
+      "author_id": "",
+      "metrics": {},
+      "url": "https://twitter.com/Kevin_Indig/status/1963304655275929847"
+    },
+    {
+      "id": "1963301214654701796",
+      "username": "rustybrick",
+      "name": "Barry Schwartz",
+      "text": "@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU",
+      "created_at": "2025-09-03T18:01:00.000Z",
+      "author_id": "",
+      "metrics": {},
+      "url": "https://twitter.com/rustybrick/status/1963301214654701796"
+    },
+    {
+      "id": "1963297438803853320",
+      "username": "rustybrick",
+      "name": "Barry Schwartz",
+      "text": "@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU,@glenngabe @cramforce you seeing this fixed on your end?,ICYMI: Google FastSearch - you ever hear of it?  https://t.co/rz9ZCNYFmI https://t.co/XfqWl001gB,ICYMI: Google Ads customizations for charts  https://t.co/lCbADi4v5c https://t.co/LcWMGkU9Dd,@Marie_Haynes not very public...,ICYMI: Google Business Profiles links policy and guidelines updated https://t.co/3dUnsFo39x https://t.co/MgIK5jtZ49,ICYMI: Google Search local pack with new directions buttons; \"Map it,\" \"Map,\" \"Route,\" \"Go,\" and \"Get there\" https://t.co/EB7KUUFrfB https://t.co/XYwobSLLkU",
+      "created_at": "2025-09-03T17:46:00.000Z",
+      "author_id": "",
+      "metrics": {},
+      "url": "https://twitter.com/rustybrick/status/1963297438803853320"
     }
   ]
 }
