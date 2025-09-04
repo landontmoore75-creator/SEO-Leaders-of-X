@@ -1,8 +1,8 @@
 {
-  "last_updated": "2025-09-04T10:25:10.557Z",
+  "last_updated": "2025-09-04T23:20:10.018Z",
   "stats": {
-    "total_tweets": 13,
-    "unique_users": 4,
+    "total_tweets": 5,
+    "unique_users": 3,
     "time_range": "24 hours"
   },
   "sentiment": {
@@ -15,7 +15,7 @@
     {
       "title": "SEO Updates",
       "description": "Discussion of recent developments",
-      "tweet_count": 13,
+      "tweet_count": 5,
       "relevance_score": 8
     }
   ],
@@ -31,13 +31,8 @@
   "top_contributors": [
     {
       "username": "rustybrick",
-      "tweet_count": 9,
+      "tweet_count": 3,
       "profile_url": "https://twitter.com/rustybrick"
-    },
-    {
-      "username": "YoungbloodJoe",
-      "tweet_count": 2,
-      "profile_url": "https://twitter.com/YoungbloodJoe"
     },
     {
       "username": "glenngabe",
@@ -45,9 +40,9 @@
       "profile_url": "https://twitter.com/glenngabe"
     },
     {
-      "username": "Kevin_Indig",
+      "username": "YoungbloodJoe",
       "tweet_count": 1,
-      "profile_url": "https://twitter.com/Kevin_Indig"
+      "profile_url": "https://twitter.com/YoungbloodJoe"
     }
   ],
   "recent_tweets": [
@@ -90,46 +85,6 @@
       "text": "Terrible to hear the news about Alan. A smart, tough, witty, and brave dude, I really like Alan (and right from the start). I believe we started talking even before Medieval Panda hit the scene and I ...",
       "created_at": "2025-09-04T00:51:57.000Z",
       "url": "https://twitter.com/rustybrick/status/1963404632899657739"
-    },
-    {
-      "id": "1963316274181632485",
-      "username": "YoungbloodJoe",
-      "name": "Joe Youngblood - SEO",
-      "text": "Terrible to hear the news about Alan. A smart, tough, witty, and brave dude, I really like Alan (and right from the start). I believe we started talking even before Medieval Panda hit the scene and I ...",
-      "created_at": "2025-09-03T19:00:51.000Z",
-      "url": "https://twitter.com/YoungbloodJoe/status/1963316274181632485"
-    },
-    {
-      "id": "1963312538164031610",
-      "username": "rustybrick",
-      "name": "Futurology",
-      "text": "Terrible to hear the news about Alan. A smart, tough, witty, and brave dude, I really like Alan (and right from the start). I believe we started talking even before Medieval Panda hit the scene and I ...",
-      "created_at": "2025-09-03T18:46:00.000Z",
-      "url": "https://twitter.com/rustybrick/status/1963312538164031610"
-    },
-    {
-      "id": "1963309045579755782",
-      "username": "rustybrick",
-      "name": "Barry Schwartz",
-      "text": "Terrible to hear the news about Alan. A smart, tough, witty, and brave dude, I really like Alan (and right from the start). I believe we started talking even before Medieval Panda hit the scene and I ...",
-      "created_at": "2025-09-03T18:32:07.000Z",
-      "url": "https://twitter.com/rustybrick/status/1963309045579755782"
-    },
-    {
-      "id": "1963308889539006527",
-      "username": "rustybrick",
-      "name": "Barry Schwartz",
-      "text": "Terrible to hear the news about Alan. A smart, tough, witty, and brave dude, I really like Alan (and right from the start). I believe we started talking even before Medieval Panda hit the scene and I ...",
-      "created_at": "2025-09-03T18:31:30.000Z",
-      "url": "https://twitter.com/rustybrick/status/1963308889539006527"
-    },
-    {
-      "id": "1963305114820628705",
-      "username": "rustybrick",
-      "name": "Barry Schwartz",
-      "text": "Terrible to hear the news about Alan. A smart, tough, witty, and brave dude, I really like Alan (and right from the start). I believe we started talking even before Medieval Panda hit the scene and I ...",
-      "created_at": "2025-09-03T18:16:30.000Z",
-      "url": "https://twitter.com/rustybrick/status/1963305114820628705"
     }
   ],
   "raw_data": [
@@ -172,70 +127,6 @@
       "text": "Terrible to hear the news about Alan. A smart, tough, witty, and brave dude, I really like Alan (and right from the start). I believe we started talking even before Medieval Panda hit the scene and I ...",
       "created_at": "2025-09-04T00:51:57.000Z",
       "url": "https://twitter.com/rustybrick/status/1963404632899657739"
-    },
-    {
-      "id": "1963316274181632485",
-      "username": "YoungbloodJoe",
-      "name": "Joe Youngblood - SEO",
-      "text": "Terrible to hear the news about Alan. A smart, tough, witty, and brave dude, I really like Alan (and right from the start). I believe we started talking even before Medieval Panda hit the scene and I ...",
-      "created_at": "2025-09-03T19:00:51.000Z",
-      "url": "https://twitter.com/YoungbloodJoe/status/1963316274181632485"
-    },
-    {
-      "id": "1963312538164031610",
-      "username": "rustybrick",
-      "name": "Futurology",
-      "text": "Terrible to hear the news about Alan. A smart, tough, witty, and brave dude, I really like Alan (and right from the start). I believe we started talking even before Medieval Panda hit the scene and I ...",
-      "created_at": "2025-09-03T18:46:00.000Z",
-      "url": "https://twitter.com/rustybrick/status/1963312538164031610"
-    },
-    {
-      "id": "1963309045579755782",
-      "username": "rustybrick",
-      "name": "Barry Schwartz",
-      "text": "Terrible to hear the news about Alan. A smart, tough, witty, and brave dude, I really like Alan (and right from the start). I believe we started talking even before Medieval Panda hit the scene and I ...",
-      "created_at": "2025-09-03T18:32:07.000Z",
-      "url": "https://twitter.com/rustybrick/status/1963309045579755782"
-    },
-    {
-      "id": "1963308889539006527",
-      "username": "rustybrick",
-      "name": "Barry Schwartz",
-      "text": "Terrible to hear the news about Alan. A smart, tough, witty, and brave dude, I really like Alan (and right from the start). I believe we started talking even before Medieval Panda hit the scene and I ...",
-      "created_at": "2025-09-03T18:31:30.000Z",
-      "url": "https://twitter.com/rustybrick/status/1963308889539006527"
-    },
-    {
-      "id": "1963305114820628705",
-      "username": "rustybrick",
-      "name": "Barry Schwartz",
-      "text": "Terrible to hear the news about Alan. A smart, tough, witty, and brave dude, I really like Alan (and right from the start). I believe we started talking even before Medieval Panda hit the scene and I ...",
-      "created_at": "2025-09-03T18:16:30.000Z",
-      "url": "https://twitter.com/rustybrick/status/1963305114820628705"
-    },
-    {
-      "id": "1963304655275929847",
-      "username": "Kevin_Indig",
-      "name": "Kevin_Indig",
-      "text": "Terrible to hear the news about Alan. A smart, tough, witty, and brave dude, I really like Alan (and right from the start). I believe we started talking even before Medieval Panda hit the scene and I ...",
-      "created_at": "2025-09-03T18:14:40.000Z",
-      "url": "https://twitter.com/Kevin_Indig/status/1963304655275929847"
-    },
-    {
-      "id": "1963301214654701796",
-      "username": "rustybrick",
-      "name": "Barry Schwartz",
-      "text": "Terrible to hear the news about Alan. A smart, tough, witty, and brave dude, I really like Alan (and right from the start). I believe we started talking even before Medieval Panda hit the scene and I ...",
-      "created_at": "2025-09-03T18:01:00.000Z",
-      "url": "https://twitter.com/rustybrick/status/1963301214654701796"
-    },
-    {
-      "id": "1963297438803853320",
-      "username": "rustybrick",
-      "name": "Barry Schwartz",
-      "text": "Terrible to hear the news about Alan. A smart, tough, witty, and brave dude, I really like Alan (and right from the start). I believe we started talking even before Medieval Panda hit the scene and I ...",
-      "created_at": "2025-09-03T17:46:00.000Z",
-      "url": "https://twitter.com/rustybrick/status/1963297438803853320"
     }
   ]
 }
