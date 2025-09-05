@@ -1,37 +1,18 @@
 {
-  "last_updated": "2025-09-05T02:37:13.376Z",
+  "last_updated": "2025-09-05T03:36:34.175Z",
   "stats": {
-    "total_tweets": 5,
+    "total_tweets": 6,
     "unique_users": 4,
     "time_range": "24 hours"
   },
-  "sentiment": {
-    "positive": 70,
-    "negative": 10,
-    "neutral": 20,
-    "summary": "Generally positive SEO discussion"
-  },
-  "themes": [
-    {
-      "title": "SEO Updates",
-      "description": "Discussion of recent developments",
-      "tweet_count": 5,
-      "relevance_score": 8
-    }
-  ],
-  "insights": [
-    "Active SEO community engagement"
-  ],
-  "trending_topics": [
-    "SEO",
-    "Google",
-    "Rankings"
-  ],
-  "community_pulse": "SEO community actively discussing industry developments",
+  "themes": [],
+  "insights": [],
+  "trending_topics": [],
+  "community_pulse": "Community analysis in progress",
   "top_contributors": [
     {
       "username": "YoungbloodJoe",
-      "tweet_count": 2,
+      "tweet_count": 3,
       "profile_url": "https://twitter.com/YoungbloodJoe"
     },
     {
@@ -52,10 +33,18 @@
   ],
   "recent_tweets": [
     {
+      "id": "1963795756126490689",
+      "username": "YoungbloodJoe",
+      "name": "Joe Youngblood - SEO",
+      "text": "@amritwt My bad for setting the bar high,Marie Haynes digging through the Google Antitrust ruling for SEO gems\n\nShe has many like this. Check out her profile... https://t.co/viTTVFDcRr,@AdamSchefter N...",
+      "created_at": "2025-09-05T02:46:08.000Z",
+      "url": "https://twitter.com/YoungbloodJoe/status/1963795756126490689"
+    },
+    {
       "id": "1963780641583157721",
       "username": "CyrusShepard",
       "name": "Cyrus SEO",
-      "text": "Marie Haynes digging through the Google Antitrust ruling for SEO gems\n\nShe has many like this. Check out her profile... https://t.co/viTTVFDcRr,@AdamSchefter No. Kill the ads or we kill Red Zone.,What...",
+      "text": "@amritwt My bad for setting the bar high,Marie Haynes digging through the Google Antitrust ruling for SEO gems\n\nShe has many like this. Check out her profile... https://t.co/viTTVFDcRr,@AdamSchefter N...",
       "created_at": "2025-09-05T01:46:04.000Z",
       "url": "https://twitter.com/CyrusShepard/status/1963780641583157721"
     },
@@ -63,7 +52,7 @@
       "id": "1963772820359463015",
       "username": "YoungbloodJoe",
       "name": "Joe Youngblood - SEO",
-      "text": "Marie Haynes digging through the Google Antitrust ruling for SEO gems\n\nShe has many like this. Check out her profile... https://t.co/viTTVFDcRr,@AdamSchefter No. Kill the ads or we kill Red Zone.,What...",
+      "text": "@amritwt My bad for setting the bar high,Marie Haynes digging through the Google Antitrust ruling for SEO gems\n\nShe has many like this. Check out her profile... https://t.co/viTTVFDcRr,@AdamSchefter N...",
       "created_at": "2025-09-05T01:15:00.000Z",
       "url": "https://twitter.com/YoungbloodJoe/status/1963772820359463015"
     },
@@ -71,7 +60,7 @@
       "id": "1963769623364387204",
       "username": "YoungbloodJoe",
       "name": "Joe Youngblood - SEO",
-      "text": "Marie Haynes digging through the Google Antitrust ruling for SEO gems\n\nShe has many like this. Check out her profile... https://t.co/viTTVFDcRr,@AdamSchefter No. Kill the ads or we kill Red Zone.,What...",
+      "text": "@amritwt My bad for setting the bar high,Marie Haynes digging through the Google Antitrust ruling for SEO gems\n\nShe has many like this. Check out her profile... https://t.co/viTTVFDcRr,@AdamSchefter N...",
       "created_at": "2025-09-05T01:02:17.000Z",
       "url": "https://twitter.com/YoungbloodJoe/status/1963769623364387204"
     },
@@ -79,7 +68,7 @@
       "id": "1963546209764638915",
       "username": "glenngabe",
       "name": "Glenn Gabe",
-      "text": "Marie Haynes digging through the Google Antitrust ruling for SEO gems\n\nShe has many like this. Check out her profile... https://t.co/viTTVFDcRr,@AdamSchefter No. Kill the ads or we kill Red Zone.,What...",
+      "text": "@amritwt My bad for setting the bar high,Marie Haynes digging through the Google Antitrust ruling for SEO gems\n\nShe has many like this. Check out her profile... https://t.co/viTTVFDcRr,@AdamSchefter N...",
       "created_at": "2025-09-04T10:14:31.000Z",
       "url": "https://twitter.com/glenngabe/status/1963546209764638915"
     },
@@ -87,17 +76,25 @@
       "id": "1963542064949277178",
       "username": "rustybrick",
       "name": "Barry Schwartz",
-      "text": "Marie Haynes digging through the Google Antitrust ruling for SEO gems\n\nShe has many like this. Check out her profile... https://t.co/viTTVFDcRr,@AdamSchefter No. Kill the ads or we kill Red Zone.,What...",
+      "text": "@amritwt My bad for setting the bar high,Marie Haynes digging through the Google Antitrust ruling for SEO gems\n\nShe has many like this. Check out her profile... https://t.co/viTTVFDcRr,@AdamSchefter N...",
       "created_at": "2025-09-04T09:58:03.000Z",
       "url": "https://twitter.com/rustybrick/status/1963542064949277178"
     }
   ],
   "raw_data": [
     {
+      "id": "1963795756126490689",
+      "username": "YoungbloodJoe",
+      "name": "Joe Youngblood - SEO",
+      "text": "@amritwt My bad for setting the bar high,Marie Haynes digging through the Google Antitrust ruling for SEO gems\n\nShe has many like this. Check out her profile... https://t.co/viTTVFDcRr,@AdamSchefter N...",
+      "created_at": "2025-09-05T02:46:08.000Z",
+      "url": "https://twitter.com/YoungbloodJoe/status/1963795756126490689"
+    },
+    {
       "id": "1963780641583157721",
       "username": "CyrusShepard",
       "name": "Cyrus SEO",
-      "text": "Marie Haynes digging through the Google Antitrust ruling for SEO gems\n\nShe has many like this. Check out her profile... https://t.co/viTTVFDcRr,@AdamSchefter No. Kill the ads or we kill Red Zone.,What...",
+      "text": "@amritwt My bad for setting the bar high,Marie Haynes digging through the Google Antitrust ruling for SEO gems\n\nShe has many like this. Check out her profile... https://t.co/viTTVFDcRr,@AdamSchefter N...",
       "created_at": "2025-09-05T01:46:04.000Z",
       "url": "https://twitter.com/CyrusShepard/status/1963780641583157721"
     },
@@ -105,7 +102,7 @@
       "id": "1963772820359463015",
       "username": "YoungbloodJoe",
       "name": "Joe Youngblood - SEO",
-      "text": "Marie Haynes digging through the Google Antitrust ruling for SEO gems\n\nShe has many like this. Check out her profile... https://t.co/viTTVFDcRr,@AdamSchefter No. Kill the ads or we kill Red Zone.,What...",
+      "text": "@amritwt My bad for setting the bar high,Marie Haynes digging through the Google Antitrust ruling for SEO gems\n\nShe has many like this. Check out her profile... https://t.co/viTTVFDcRr,@AdamSchefter N...",
       "created_at": "2025-09-05T01:15:00.000Z",
       "url": "https://twitter.com/YoungbloodJoe/status/1963772820359463015"
     },
@@ -113,7 +110,7 @@
       "id": "1963769623364387204",
       "username": "YoungbloodJoe",
       "name": "Joe Youngblood - SEO",
-      "text": "Marie Haynes digging through the Google Antitrust ruling for SEO gems\n\nShe has many like this. Check out her profile... https://t.co/viTTVFDcRr,@AdamSchefter No. Kill the ads or we kill Red Zone.,What...",
+      "text": "@amritwt My bad for setting the bar high,Marie Haynes digging through the Google Antitrust ruling for SEO gems\n\nShe has many like this. Check out her profile... https://t.co/viTTVFDcRr,@AdamSchefter N...",
       "created_at": "2025-09-05T01:02:17.000Z",
       "url": "https://twitter.com/YoungbloodJoe/status/1963769623364387204"
     },
@@ -121,7 +118,7 @@
       "id": "1963546209764638915",
       "username": "glenngabe",
       "name": "Glenn Gabe",
-      "text": "Marie Haynes digging through the Google Antitrust ruling for SEO gems\n\nShe has many like this. Check out her profile... https://t.co/viTTVFDcRr,@AdamSchefter No. Kill the ads or we kill Red Zone.,What...",
+      "text": "@amritwt My bad for setting the bar high,Marie Haynes digging through the Google Antitrust ruling for SEO gems\n\nShe has many like this. Check out her profile... https://t.co/viTTVFDcRr,@AdamSchefter N...",
       "created_at": "2025-09-04T10:14:31.000Z",
       "url": "https://twitter.com/glenngabe/status/1963546209764638915"
     },
@@ -129,7 +126,7 @@
       "id": "1963542064949277178",
       "username": "rustybrick",
       "name": "Barry Schwartz",
-      "text": "Marie Haynes digging through the Google Antitrust ruling for SEO gems\n\nShe has many like this. Check out her profile... https://t.co/viTTVFDcRr,@AdamSchefter No. Kill the ads or we kill Red Zone.,What...",
+      "text": "@amritwt My bad for setting the bar high,Marie Haynes digging through the Google Antitrust ruling for SEO gems\n\nShe has many like this. Check out her profile... https://t.co/viTTVFDcRr,@AdamSchefter N...",
       "created_at": "2025-09-04T09:58:03.000Z",
       "url": "https://twitter.com/rustybrick/status/1963542064949277178"
     }
