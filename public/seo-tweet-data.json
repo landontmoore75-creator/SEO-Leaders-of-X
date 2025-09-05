@@ -1,18 +1,42 @@
 {
-  "last_updated": "2025-09-05T13:16:31.138Z",
+  "last_updated": "2025-09-05T14:02:09.001Z",
   "stats": {
-    "total_tweets": 9,
-    "unique_users": 4,
+    "total_tweets": 26,
+    "unique_users": 6,
     "time_range": "24 hours"
   },
-  "themes": [],
-  "insights": [],
-  "trending_topics": [],
-  "community_pulse": "Community analysis in progress",
+  "sentiment": {
+    "positive": 70,
+    "negative": 10,
+    "neutral": 20,
+    "summary": "Generally positive SEO discussion"
+  },
+  "themes": [
+    {
+      "title": "SEO Updates",
+      "description": "Discussion of recent developments",
+      "tweet_count": 26,
+      "relevance_score": 8
+    }
+  ],
+  "insights": [
+    "Active SEO community engagement"
+  ],
+  "trending_topics": [
+    "SEO",
+    "Google",
+    "Rankings"
+  ],
+  "community_pulse": "SEO community actively discussing industry developments",
   "top_contributors": [
     {
+      "username": "Marie_Haynes",
+      "tweet_count": 10,
+      "profile_url": "https://twitter.com/Marie_Haynes"
+    },
+    {
       "username": "rustybrick",
-      "tweet_count": 3,
+      "tweet_count": 9,
       "profile_url": "https://twitter.com/rustybrick"
     },
     {
@@ -26,6 +50,11 @@
       "profile_url": "https://twitter.com/glenngabe"
     },
     {
+      "username": "Kevin_Indig",
+      "tweet_count": 1,
+      "profile_url": "https://twitter.com/Kevin_Indig"
+    },
+    {
       "username": "CyrusShepard",
       "tweet_count": 1,
       "profile_url": "https://twitter.com/CyrusShepard"
@@ -33,84 +62,228 @@
   ],
   "recent_tweets": [
     {
-      "id": "1963950279713251769",
+      "id": "1963961817090158754",
       "username": "rustybrick",
       "name": "Barry Schwartz",
-      "text": "@gaganghotra_ @JohnMu to be fair,no one can understand me - according to my wife,So it seems @johnmu can finally understand me now https://t.co/qmkUYMmQS6 https://t.co/xZqrmSbnTo,Well,I'm sure that si...",
-      "created_at": "2025-09-05T13:00:09.000Z",
-      "url": "https://twitter.com/rustybrick/status/1963950279713251769"
+      "text": "Google Local Panel with weird third-party card  https://t.co/V0g2hIhi83 https://t.co/stGjQO4KXR,@adsliaison https://t.co/fq5TQUfaUn,@raifordpalmer Smart 🧠,@Linkbuildinghq Same. I wonder how that happ...",
+      "created_at": "2025-09-05T13:46:00.000Z",
+      "url": "https://twitter.com/rustybrick/status/1963961817090158754"
     },
     {
-      "id": "1963947875764752783",
+      "id": "1963961370002518342",
       "username": "rustybrick",
       "name": "Barry Schwartz",
-      "text": "@gaganghotra_ @JohnMu to be fair,no one can understand me - according to my wife,So it seems @johnmu can finally understand me now https://t.co/qmkUYMmQS6 https://t.co/xZqrmSbnTo,Well,I'm sure that si...",
-      "created_at": "2025-09-05T12:50:36.000Z",
-      "url": "https://twitter.com/rustybrick/status/1963947875764752783"
+      "text": "Google Local Panel with weird third-party card  https://t.co/V0g2hIhi83 https://t.co/stGjQO4KXR,@adsliaison https://t.co/fq5TQUfaUn,@raifordpalmer Smart 🧠,@Linkbuildinghq Same. I wonder how that happ...",
+      "created_at": "2025-09-05T13:44:13.000Z",
+      "url": "https://twitter.com/rustybrick/status/1963961370002518342"
     },
     {
-      "id": "1963947474638229587",
-      "username": "glenngabe",
-      "name": "Glenn Gabe",
-      "text": "@gaganghotra_ @JohnMu to be fair,no one can understand me - according to my wife,So it seems @johnmu can finally understand me now https://t.co/qmkUYMmQS6 https://t.co/xZqrmSbnTo,Well,I'm sure that si...",
-      "created_at": "2025-09-05T12:49:00.000Z",
-      "url": "https://twitter.com/glenngabe/status/1963947474638229587"
+      "id": "1963961105430073597",
+      "username": "Marie_Haynes",
+      "name": "Marie Haynes",
+      "text": "Google Local Panel with weird third-party card  https://t.co/V0g2hIhi83 https://t.co/stGjQO4KXR,@adsliaison https://t.co/fq5TQUfaUn,@raifordpalmer Smart 🧠,@Linkbuildinghq Same. I wonder how that happ...",
+      "created_at": "2025-09-05T13:43:10.000Z",
+      "url": "https://twitter.com/Marie_Haynes/status/1963961105430073597"
     },
     {
-      "id": "1963944112727458037",
-      "username": "glenngabe",
-      "name": "Glenn Gabe",
-      "text": "@gaganghotra_ @JohnMu to be fair,no one can understand me - according to my wife,So it seems @johnmu can finally understand me now https://t.co/qmkUYMmQS6 https://t.co/xZqrmSbnTo,Well,I'm sure that si...",
-      "created_at": "2025-09-05T12:35:39.000Z",
-      "url": "https://twitter.com/glenngabe/status/1963944112727458037"
+      "id": "1963960513508884915",
+      "username": "Marie_Haynes",
+      "name": "Marie Haynes",
+      "text": "Google Local Panel with weird third-party card  https://t.co/V0g2hIhi83 https://t.co/stGjQO4KXR,@adsliaison https://t.co/fq5TQUfaUn,@raifordpalmer Smart 🧠,@Linkbuildinghq Same. I wonder how that happ...",
+      "created_at": "2025-09-05T13:40:49.000Z",
+      "url": "https://twitter.com/Marie_Haynes/status/1963960513508884915"
     },
     {
-      "id": "1963938980526719437",
+      "id": "1963960350505599019",
+      "username": "Marie_Haynes",
+      "name": "Marie Haynes",
+      "text": "Google Local Panel with weird third-party card  https://t.co/V0g2hIhi83 https://t.co/stGjQO4KXR,@adsliaison https://t.co/fq5TQUfaUn,@raifordpalmer Smart 🧠,@Linkbuildinghq Same. I wonder how that happ...",
+      "created_at": "2025-09-05T13:40:10.000Z",
+      "url": "https://twitter.com/Marie_Haynes/status/1963960350505599019"
+    },
+    {
+      "id": "1963960023383445806",
       "username": "rustybrick",
       "name": "Barry Schwartz",
-      "text": "@gaganghotra_ @JohnMu to be fair,no one can understand me - according to my wife,So it seems @johnmu can finally understand me now https://t.co/qmkUYMmQS6 https://t.co/xZqrmSbnTo,Well,I'm sure that si...",
-      "created_at": "2025-09-05T12:15:15.000Z",
-      "url": "https://twitter.com/rustybrick/status/1963938980526719437"
+      "text": "Google Local Panel with weird third-party card  https://t.co/V0g2hIhi83 https://t.co/stGjQO4KXR,@adsliaison https://t.co/fq5TQUfaUn,@raifordpalmer Smart 🧠,@Linkbuildinghq Same. I wonder how that happ...",
+      "created_at": "2025-09-05T13:38:52.000Z",
+      "url": "https://twitter.com/rustybrick/status/1963960023383445806"
     },
     {
-      "id": "1963795756126490689",
-      "username": "YoungbloodJoe",
-      "name": "Joe Youngblood - SEO",
-      "text": "@gaganghotra_ @JohnMu to be fair,no one can understand me - according to my wife,So it seems @johnmu can finally understand me now https://t.co/qmkUYMmQS6 https://t.co/xZqrmSbnTo,Well,I'm sure that si...",
-      "created_at": "2025-09-05T02:46:08.000Z",
-      "url": "https://twitter.com/YoungbloodJoe/status/1963795756126490689"
+      "id": "1963959857947549852",
+      "username": "Marie_Haynes",
+      "name": "Marie Haynes",
+      "text": "Google Local Panel with weird third-party card  https://t.co/V0g2hIhi83 https://t.co/stGjQO4KXR,@adsliaison https://t.co/fq5TQUfaUn,@raifordpalmer Smart 🧠,@Linkbuildinghq Same. I wonder how that happ...",
+      "created_at": "2025-09-05T13:38:13.000Z",
+      "url": "https://twitter.com/Marie_Haynes/status/1963959857947549852"
     },
     {
-      "id": "1963780641583157721",
-      "username": "CyrusShepard",
-      "name": "Cyrus SEO",
-      "text": "@gaganghotra_ @JohnMu to be fair,no one can understand me - according to my wife,So it seems @johnmu can finally understand me now https://t.co/qmkUYMmQS6 https://t.co/xZqrmSbnTo,Well,I'm sure that si...",
-      "created_at": "2025-09-05T01:46:04.000Z",
-      "url": "https://twitter.com/CyrusShepard/status/1963780641583157721"
+      "id": "1963959607405019267",
+      "username": "Marie_Haynes",
+      "name": "Marie Haynes",
+      "text": "Google Local Panel with weird third-party card  https://t.co/V0g2hIhi83 https://t.co/stGjQO4KXR,@adsliaison https://t.co/fq5TQUfaUn,@raifordpalmer Smart 🧠,@Linkbuildinghq Same. I wonder how that happ...",
+      "created_at": "2025-09-05T13:37:13.000Z",
+      "url": "https://twitter.com/Marie_Haynes/status/1963959607405019267"
     },
     {
-      "id": "1963772820359463015",
-      "username": "YoungbloodJoe",
-      "name": "Joe Youngblood - SEO",
-      "text": "@gaganghotra_ @JohnMu to be fair,no one can understand me - according to my wife,So it seems @johnmu can finally understand me now https://t.co/qmkUYMmQS6 https://t.co/xZqrmSbnTo,Well,I'm sure that si...",
-      "created_at": "2025-09-05T01:15:00.000Z",
-      "url": "https://twitter.com/YoungbloodJoe/status/1963772820359463015"
+      "id": "1963958468865302652",
+      "username": "Marie_Haynes",
+      "name": "Marie Haynes",
+      "text": "Google Local Panel with weird third-party card  https://t.co/V0g2hIhi83 https://t.co/stGjQO4KXR,@adsliaison https://t.co/fq5TQUfaUn,@raifordpalmer Smart 🧠,@Linkbuildinghq Same. I wonder how that happ...",
+      "created_at": "2025-09-05T13:32:42.000Z",
+      "url": "https://twitter.com/Marie_Haynes/status/1963958468865302652"
     },
     {
-      "id": "1963769623364387204",
-      "username": "YoungbloodJoe",
-      "name": "Joe Youngblood - SEO",
-      "text": "@gaganghotra_ @JohnMu to be fair,no one can understand me - according to my wife,So it seems @johnmu can finally understand me now https://t.co/qmkUYMmQS6 https://t.co/xZqrmSbnTo,Well,I'm sure that si...",
-      "created_at": "2025-09-05T01:02:17.000Z",
-      "url": "https://twitter.com/YoungbloodJoe/status/1963769623364387204"
+      "id": "1963958250467975258",
+      "username": "Kevin_Indig",
+      "name": "Kevin_Indig",
+      "text": "Google Local Panel with weird third-party card  https://t.co/V0g2hIhi83 https://t.co/stGjQO4KXR,@adsliaison https://t.co/fq5TQUfaUn,@raifordpalmer Smart 🧠,@Linkbuildinghq Same. I wonder how that happ...",
+      "created_at": "2025-09-05T13:31:50.000Z",
+      "url": "https://twitter.com/Kevin_Indig/status/1963958250467975258"
     }
   ],
   "raw_data": [
     {
+      "id": "1963961817090158754",
+      "username": "rustybrick",
+      "name": "Barry Schwartz",
+      "text": "Google Local Panel with weird third-party card  https://t.co/V0g2hIhi83 https://t.co/stGjQO4KXR,@adsliaison https://t.co/fq5TQUfaUn,@raifordpalmer Smart 🧠,@Linkbuildinghq Same. I wonder how that happ...",
+      "created_at": "2025-09-05T13:46:00.000Z",
+      "url": "https://twitter.com/rustybrick/status/1963961817090158754"
+    },
+    {
+      "id": "1963961370002518342",
+      "username": "rustybrick",
+      "name": "Barry Schwartz",
+      "text": "Google Local Panel with weird third-party card  https://t.co/V0g2hIhi83 https://t.co/stGjQO4KXR,@adsliaison https://t.co/fq5TQUfaUn,@raifordpalmer Smart 🧠,@Linkbuildinghq Same. I wonder how that happ...",
+      "created_at": "2025-09-05T13:44:13.000Z",
+      "url": "https://twitter.com/rustybrick/status/1963961370002518342"
+    },
+    {
+      "id": "1963961105430073597",
+      "username": "Marie_Haynes",
+      "name": "Marie Haynes",
+      "text": "Google Local Panel with weird third-party card  https://t.co/V0g2hIhi83 https://t.co/stGjQO4KXR,@adsliaison https://t.co/fq5TQUfaUn,@raifordpalmer Smart 🧠,@Linkbuildinghq Same. I wonder how that happ...",
+      "created_at": "2025-09-05T13:43:10.000Z",
+      "url": "https://twitter.com/Marie_Haynes/status/1963961105430073597"
+    },
+    {
+      "id": "1963960513508884915",
+      "username": "Marie_Haynes",
+      "name": "Marie Haynes",
+      "text": "Google Local Panel with weird third-party card  https://t.co/V0g2hIhi83 https://t.co/stGjQO4KXR,@adsliaison https://t.co/fq5TQUfaUn,@raifordpalmer Smart 🧠,@Linkbuildinghq Same. I wonder how that happ...",
+      "created_at": "2025-09-05T13:40:49.000Z",
+      "url": "https://twitter.com/Marie_Haynes/status/1963960513508884915"
+    },
+    {
+      "id": "1963960350505599019",
+      "username": "Marie_Haynes",
+      "name": "Marie Haynes",
+      "text": "Google Local Panel with weird third-party card  https://t.co/V0g2hIhi83 https://t.co/stGjQO4KXR,@adsliaison https://t.co/fq5TQUfaUn,@raifordpalmer Smart 🧠,@Linkbuildinghq Same. I wonder how that happ...",
+      "created_at": "2025-09-05T13:40:10.000Z",
+      "url": "https://twitter.com/Marie_Haynes/status/1963960350505599019"
+    },
+    {
+      "id": "1963960023383445806",
+      "username": "rustybrick",
+      "name": "Barry Schwartz",
+      "text": "Google Local Panel with weird third-party card  https://t.co/V0g2hIhi83 https://t.co/stGjQO4KXR,@adsliaison https://t.co/fq5TQUfaUn,@raifordpalmer Smart 🧠,@Linkbuildinghq Same. I wonder how that happ...",
+      "created_at": "2025-09-05T13:38:52.000Z",
+      "url": "https://twitter.com/rustybrick/status/1963960023383445806"
+    },
+    {
+      "id": "1963959857947549852",
+      "username": "Marie_Haynes",
+      "name": "Marie Haynes",
+      "text": "Google Local Panel with weird third-party card  https://t.co/V0g2hIhi83 https://t.co/stGjQO4KXR,@adsliaison https://t.co/fq5TQUfaUn,@raifordpalmer Smart 🧠,@Linkbuildinghq Same. I wonder how that happ...",
+      "created_at": "2025-09-05T13:38:13.000Z",
+      "url": "https://twitter.com/Marie_Haynes/status/1963959857947549852"
+    },
+    {
+      "id": "1963959607405019267",
+      "username": "Marie_Haynes",
+      "name": "Marie Haynes",
+      "text": "Google Local Panel with weird third-party card  https://t.co/V0g2hIhi83 https://t.co/stGjQO4KXR,@adsliaison https://t.co/fq5TQUfaUn,@raifordpalmer Smart 🧠,@Linkbuildinghq Same. I wonder how that happ...",
+      "created_at": "2025-09-05T13:37:13.000Z",
+      "url": "https://twitter.com/Marie_Haynes/status/1963959607405019267"
+    },
+    {
+      "id": "1963958468865302652",
+      "username": "Marie_Haynes",
+      "name": "Marie Haynes",
+      "text": "Google Local Panel with weird third-party card  https://t.co/V0g2hIhi83 https://t.co/stGjQO4KXR,@adsliaison https://t.co/fq5TQUfaUn,@raifordpalmer Smart 🧠,@Linkbuildinghq Same. I wonder how that happ...",
+      "created_at": "2025-09-05T13:32:42.000Z",
+      "url": "https://twitter.com/Marie_Haynes/status/1963958468865302652"
+    },
+    {
+      "id": "1963958250467975258",
+      "username": "Kevin_Indig",
+      "name": "Kevin_Indig",
+      "text": "Google Local Panel with weird third-party card  https://t.co/V0g2hIhi83 https://t.co/stGjQO4KXR,@adsliaison https://t.co/fq5TQUfaUn,@raifordpalmer Smart 🧠,@Linkbuildinghq Same. I wonder how that happ...",
+      "created_at": "2025-09-05T13:31:50.000Z",
+      "url": "https://twitter.com/Kevin_Indig/status/1963958250467975258"
+    },
+    {
+      "id": "1963958168305783123",
+      "username": "rustybrick",
+      "name": "Barry Schwartz",
+      "text": "Google Local Panel with weird third-party card  https://t.co/V0g2hIhi83 https://t.co/stGjQO4KXR,@adsliaison https://t.co/fq5TQUfaUn,@raifordpalmer Smart 🧠,@Linkbuildinghq Same. I wonder how that happ...",
+      "created_at": "2025-09-05T13:31:30.000Z",
+      "url": "https://twitter.com/rustybrick/status/1963958168305783123"
+    },
+    {
+      "id": "1963956802862612743",
+      "username": "Marie_Haynes",
+      "name": "Marie Haynes",
+      "text": "Google Local Panel with weird third-party card  https://t.co/V0g2hIhi83 https://t.co/stGjQO4KXR,@adsliaison https://t.co/fq5TQUfaUn,@raifordpalmer Smart 🧠,@Linkbuildinghq Same. I wonder how that happ...",
+      "created_at": "2025-09-05T13:26:05.000Z",
+      "url": "https://twitter.com/Marie_Haynes/status/1963956802862612743"
+    },
+    {
+      "id": "1963956177445728753",
+      "username": "rustybrick",
+      "name": "Barry Schwartz",
+      "text": "Google Local Panel with weird third-party card  https://t.co/V0g2hIhi83 https://t.co/stGjQO4KXR,@adsliaison https://t.co/fq5TQUfaUn,@raifordpalmer Smart 🧠,@Linkbuildinghq Same. I wonder how that happ...",
+      "created_at": "2025-09-05T13:23:35.000Z",
+      "url": "https://twitter.com/rustybrick/status/1963956177445728753"
+    },
+    {
+      "id": "1963955853536448662",
+      "username": "rustybrick",
+      "name": "Barry Schwartz",
+      "text": "Google Local Panel with weird third-party card  https://t.co/V0g2hIhi83 https://t.co/stGjQO4KXR,@adsliaison https://t.co/fq5TQUfaUn,@raifordpalmer Smart 🧠,@Linkbuildinghq Same. I wonder how that happ...",
+      "created_at": "2025-09-05T13:22:18.000Z",
+      "url": "https://twitter.com/rustybrick/status/1963955853536448662"
+    },
+    {
+      "id": "1963955560761463227",
+      "username": "Marie_Haynes",
+      "name": "Marie Haynes",
+      "text": "Google Local Panel with weird third-party card  https://t.co/V0g2hIhi83 https://t.co/stGjQO4KXR,@adsliaison https://t.co/fq5TQUfaUn,@raifordpalmer Smart 🧠,@Linkbuildinghq Same. I wonder how that happ...",
+      "created_at": "2025-09-05T13:21:08.000Z",
+      "url": "https://twitter.com/Marie_Haynes/status/1963955560761463227"
+    },
+    {
+      "id": "1963955181281796155",
+      "username": "Marie_Haynes",
+      "name": "Marie Haynes",
+      "text": "Google Local Panel with weird third-party card  https://t.co/V0g2hIhi83 https://t.co/stGjQO4KXR,@adsliaison https://t.co/fq5TQUfaUn,@raifordpalmer Smart 🧠,@Linkbuildinghq Same. I wonder how that happ...",
+      "created_at": "2025-09-05T13:19:38.000Z",
+      "url": "https://twitter.com/Marie_Haynes/status/1963955181281796155"
+    },
+    {
+      "id": "1963954768537088336",
+      "username": "Marie_Haynes",
+      "name": "Marie Haynes",
+      "text": "Google Local Panel with weird third-party card  https://t.co/V0g2hIhi83 https://t.co/stGjQO4KXR,@adsliaison https://t.co/fq5TQUfaUn,@raifordpalmer Smart 🧠,@Linkbuildinghq Same. I wonder how that happ...",
+      "created_at": "2025-09-05T13:17:59.000Z",
+      "url": "https://twitter.com/Marie_Haynes/status/1963954768537088336"
+    },
+    {
       "id": "1963950279713251769",
       "username": "rustybrick",
       "name": "Barry Schwartz",
-      "text": "@gaganghotra_ @JohnMu to be fair,no one can understand me - according to my wife,So it seems @johnmu can finally understand me now https://t.co/qmkUYMmQS6 https://t.co/xZqrmSbnTo,Well,I'm sure that si...",
+      "text": "Google Local Panel with weird third-party card  https://t.co/V0g2hIhi83 https://t.co/stGjQO4KXR,@adsliaison https://t.co/fq5TQUfaUn,@raifordpalmer Smart 🧠,@Linkbuildinghq Same. I wonder how that happ...",
       "created_at": "2025-09-05T13:00:09.000Z",
       "url": "https://twitter.com/rustybrick/status/1963950279713251769"
     },
@@ -118,7 +291,7 @@
       "id": "1963947875764752783",
       "username": "rustybrick",
       "name": "Barry Schwartz",
-      "text": "@gaganghotra_ @JohnMu to be fair,no one can understand me - according to my wife,So it seems @johnmu can finally understand me now https://t.co/qmkUYMmQS6 https://t.co/xZqrmSbnTo,Well,I'm sure that si...",
+      "text": "Google Local Panel with weird third-party card  https://t.co/V0g2hIhi83 https://t.co/stGjQO4KXR,@adsliaison https://t.co/fq5TQUfaUn,@raifordpalmer Smart 🧠,@Linkbuildinghq Same. I wonder how that happ...",
       "created_at": "2025-09-05T12:50:36.000Z",
       "url": "https://twitter.com/rustybrick/status/1963947875764752783"
     },
@@ -126,7 +299,7 @@
       "id": "1963947474638229587",
       "username": "glenngabe",
       "name": "Glenn Gabe",
-      "text": "@gaganghotra_ @JohnMu to be fair,no one can understand me - according to my wife,So it seems @johnmu can finally understand me now https://t.co/qmkUYMmQS6 https://t.co/xZqrmSbnTo,Well,I'm sure that si...",
+      "text": "Google Local Panel with weird third-party card  https://t.co/V0g2hIhi83 https://t.co/stGjQO4KXR,@adsliaison https://t.co/fq5TQUfaUn,@raifordpalmer Smart 🧠,@Linkbuildinghq Same. I wonder how that happ...",
       "created_at": "2025-09-05T12:49:00.000Z",
       "url": "https://twitter.com/glenngabe/status/1963947474638229587"
     },
@@ -134,7 +307,7 @@
       "id": "1963944112727458037",
       "username": "glenngabe",
       "name": "Glenn Gabe",
-      "text": "@gaganghotra_ @JohnMu to be fair,no one can understand me - according to my wife,So it seems @johnmu can finally understand me now https://t.co/qmkUYMmQS6 https://t.co/xZqrmSbnTo,Well,I'm sure that si...",
+      "text": "Google Local Panel with weird third-party card  https://t.co/V0g2hIhi83 https://t.co/stGjQO4KXR,@adsliaison https://t.co/fq5TQUfaUn,@raifordpalmer Smart 🧠,@Linkbuildinghq Same. I wonder how that happ...",
       "created_at": "2025-09-05T12:35:39.000Z",
       "url": "https://twitter.com/glenngabe/status/1963944112727458037"
     },
@@ -142,7 +315,7 @@
       "id": "1963938980526719437",
       "username": "rustybrick",
       "name": "Barry Schwartz",
-      "text": "@gaganghotra_ @JohnMu to be fair,no one can understand me - according to my wife,So it seems @johnmu can finally understand me now https://t.co/qmkUYMmQS6 https://t.co/xZqrmSbnTo,Well,I'm sure that si...",
+      "text": "Google Local Panel with weird third-party card  https://t.co/V0g2hIhi83 https://t.co/stGjQO4KXR,@adsliaison https://t.co/fq5TQUfaUn,@raifordpalmer Smart 🧠,@Linkbuildinghq Same. I wonder how that happ...",
       "created_at": "2025-09-05T12:15:15.000Z",
       "url": "https://twitter.com/rustybrick/status/1963938980526719437"
     },
@@ -150,7 +323,7 @@
       "id": "1963795756126490689",
       "username": "YoungbloodJoe",
       "name": "Joe Youngblood - SEO",
-      "text": "@gaganghotra_ @JohnMu to be fair,no one can understand me - according to my wife,So it seems @johnmu can finally understand me now https://t.co/qmkUYMmQS6 https://t.co/xZqrmSbnTo,Well,I'm sure that si...",
+      "text": "Google Local Panel with weird third-party card  https://t.co/V0g2hIhi83 https://t.co/stGjQO4KXR,@adsliaison https://t.co/fq5TQUfaUn,@raifordpalmer Smart 🧠,@Linkbuildinghq Same. I wonder how that happ...",
       "created_at": "2025-09-05T02:46:08.000Z",
       "url": "https://twitter.com/YoungbloodJoe/status/1963795756126490689"
     },
@@ -158,7 +331,7 @@
       "id": "1963780641583157721",
       "username": "CyrusShepard",
       "name": "Cyrus SEO",
-      "text": "@gaganghotra_ @JohnMu to be fair,no one can understand me - according to my wife,So it seems @johnmu can finally understand me now https://t.co/qmkUYMmQS6 https://t.co/xZqrmSbnTo,Well,I'm sure that si...",
+      "text": "Google Local Panel with weird third-party card  https://t.co/V0g2hIhi83 https://t.co/stGjQO4KXR,@adsliaison https://t.co/fq5TQUfaUn,@raifordpalmer Smart 🧠,@Linkbuildinghq Same. I wonder how that happ...",
       "created_at": "2025-09-05T01:46:04.000Z",
       "url": "https://twitter.com/CyrusShepard/status/1963780641583157721"
     },
@@ -166,7 +339,7 @@
       "id": "1963772820359463015",
       "username": "YoungbloodJoe",
       "name": "Joe Youngblood - SEO",
-      "text": "@gaganghotra_ @JohnMu to be fair,no one can understand me - according to my wife,So it seems @johnmu can finally understand me now https://t.co/qmkUYMmQS6 https://t.co/xZqrmSbnTo,Well,I'm sure that si...",
+      "text": "Google Local Panel with weird third-party card  https://t.co/V0g2hIhi83 https://t.co/stGjQO4KXR,@adsliaison https://t.co/fq5TQUfaUn,@raifordpalmer Smart 🧠,@Linkbuildinghq Same. I wonder how that happ...",
       "created_at": "2025-09-05T01:15:00.000Z",
       "url": "https://twitter.com/YoungbloodJoe/status/1963772820359463015"
     },
@@ -174,7 +347,7 @@
       "id": "1963769623364387204",
       "username": "YoungbloodJoe",
       "name": "Joe Youngblood - SEO",
-      "text": "@gaganghotra_ @JohnMu to be fair,no one can understand me - according to my wife,So it seems @johnmu can finally understand me now https://t.co/qmkUYMmQS6 https://t.co/xZqrmSbnTo,Well,I'm sure that si...",
+      "text": "Google Local Panel with weird third-party card  https://t.co/V0g2hIhi83 https://t.co/stGjQO4KXR,@adsliaison https://t.co/fq5TQUfaUn,@raifordpalmer Smart 🧠,@Linkbuildinghq Same. I wonder how that happ...",
       "created_at": "2025-09-05T01:02:17.000Z",
       "url": "https://twitter.com/YoungbloodJoe/status/1963769623364387204"
     }
