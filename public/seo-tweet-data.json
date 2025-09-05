@@ -1,7 +1,7 @@
 {
-  "last_updated": "2025-09-05T03:36:34.175Z",
+  "last_updated": "2025-09-05T13:16:31.138Z",
   "stats": {
-    "total_tweets": 6,
+    "total_tweets": 9,
     "unique_users": 4,
     "time_range": "24 hours"
   },
@@ -11,32 +11,72 @@
   "community_pulse": "Community analysis in progress",
   "top_contributors": [
     {
+      "username": "rustybrick",
+      "tweet_count": 3,
+      "profile_url": "https://twitter.com/rustybrick"
+    },
+    {
       "username": "YoungbloodJoe",
       "tweet_count": 3,
       "profile_url": "https://twitter.com/YoungbloodJoe"
     },
     {
-      "username": "CyrusShepard",
-      "tweet_count": 1,
-      "profile_url": "https://twitter.com/CyrusShepard"
-    },
-    {
       "username": "glenngabe",
-      "tweet_count": 1,
+      "tweet_count": 2,
       "profile_url": "https://twitter.com/glenngabe"
     },
     {
-      "username": "rustybrick",
+      "username": "CyrusShepard",
       "tweet_count": 1,
-      "profile_url": "https://twitter.com/rustybrick"
+      "profile_url": "https://twitter.com/CyrusShepard"
     }
   ],
   "recent_tweets": [
     {
+      "id": "1963950279713251769",
+      "username": "rustybrick",
+      "name": "Barry Schwartz",
+      "text": "@gaganghotra_ @JohnMu to be fair,no one can understand me - according to my wife,So it seems @johnmu can finally understand me now https://t.co/qmkUYMmQS6 https://t.co/xZqrmSbnTo,Well,I'm sure that si...",
+      "created_at": "2025-09-05T13:00:09.000Z",
+      "url": "https://twitter.com/rustybrick/status/1963950279713251769"
+    },
+    {
+      "id": "1963947875764752783",
+      "username": "rustybrick",
+      "name": "Barry Schwartz",
+      "text": "@gaganghotra_ @JohnMu to be fair,no one can understand me - according to my wife,So it seems @johnmu can finally understand me now https://t.co/qmkUYMmQS6 https://t.co/xZqrmSbnTo,Well,I'm sure that si...",
+      "created_at": "2025-09-05T12:50:36.000Z",
+      "url": "https://twitter.com/rustybrick/status/1963947875764752783"
+    },
+    {
+      "id": "1963947474638229587",
+      "username": "glenngabe",
+      "name": "Glenn Gabe",
+      "text": "@gaganghotra_ @JohnMu to be fair,no one can understand me - according to my wife,So it seems @johnmu can finally understand me now https://t.co/qmkUYMmQS6 https://t.co/xZqrmSbnTo,Well,I'm sure that si...",
+      "created_at": "2025-09-05T12:49:00.000Z",
+      "url": "https://twitter.com/glenngabe/status/1963947474638229587"
+    },
+    {
+      "id": "1963944112727458037",
+      "username": "glenngabe",
+      "name": "Glenn Gabe",
+      "text": "@gaganghotra_ @JohnMu to be fair,no one can understand me - according to my wife,So it seems @johnmu can finally understand me now https://t.co/qmkUYMmQS6 https://t.co/xZqrmSbnTo,Well,I'm sure that si...",
+      "created_at": "2025-09-05T12:35:39.000Z",
+      "url": "https://twitter.com/glenngabe/status/1963944112727458037"
+    },
+    {
+      "id": "1963938980526719437",
+      "username": "rustybrick",
+      "name": "Barry Schwartz",
+      "text": "@gaganghotra_ @JohnMu to be fair,no one can understand me - according to my wife,So it seems @johnmu can finally understand me now https://t.co/qmkUYMmQS6 https://t.co/xZqrmSbnTo,Well,I'm sure that si...",
+      "created_at": "2025-09-05T12:15:15.000Z",
+      "url": "https://twitter.com/rustybrick/status/1963938980526719437"
+    },
+    {
       "id": "1963795756126490689",
       "username": "YoungbloodJoe",
       "name": "Joe Youngblood - SEO",
-      "text": "@amritwt My bad for setting the bar high,Marie Haynes digging through the Google Antitrust ruling for SEO gems\n\nShe has many like this. Check out her profile... https://t.co/viTTVFDcRr,@AdamSchefter N...",
+      "text": "@gaganghotra_ @JohnMu to be fair,no one can understand me - according to my wife,So it seems @johnmu can finally understand me now https://t.co/qmkUYMmQS6 https://t.co/xZqrmSbnTo,Well,I'm sure that si...",
       "created_at": "2025-09-05T02:46:08.000Z",
       "url": "https://twitter.com/YoungbloodJoe/status/1963795756126490689"
     },
@@ -44,7 +84,7 @@
       "id": "1963780641583157721",
       "username": "CyrusShepard",
       "name": "Cyrus SEO",
-      "text": "@amritwt My bad for setting the bar high,Marie Haynes digging through the Google Antitrust ruling for SEO gems\n\nShe has many like this. Check out her profile... https://t.co/viTTVFDcRr,@AdamSchefter N...",
+      "text": "@gaganghotra_ @JohnMu to be fair,no one can understand me - according to my wife,So it seems @johnmu can finally understand me now https://t.co/qmkUYMmQS6 https://t.co/xZqrmSbnTo,Well,I'm sure that si...",
       "created_at": "2025-09-05T01:46:04.000Z",
       "url": "https://twitter.com/CyrusShepard/status/1963780641583157721"
     },
@@ -52,7 +92,7 @@
       "id": "1963772820359463015",
       "username": "YoungbloodJoe",
       "name": "Joe Youngblood - SEO",
-      "text": "@amritwt My bad for setting the bar high,Marie Haynes digging through the Google Antitrust ruling for SEO gems\n\nShe has many like this. Check out her profile... https://t.co/viTTVFDcRr,@AdamSchefter N...",
+      "text": "@gaganghotra_ @JohnMu to be fair,no one can understand me - according to my wife,So it seems @johnmu can finally understand me now https://t.co/qmkUYMmQS6 https://t.co/xZqrmSbnTo,Well,I'm sure that si...",
       "created_at": "2025-09-05T01:15:00.000Z",
       "url": "https://twitter.com/YoungbloodJoe/status/1963772820359463015"
     },
@@ -60,33 +100,57 @@
       "id": "1963769623364387204",
       "username": "YoungbloodJoe",
       "name": "Joe Youngblood - SEO",
-      "text": "@amritwt My bad for setting the bar high,Marie Haynes digging through the Google Antitrust ruling for SEO gems\n\nShe has many like this. Check out her profile... https://t.co/viTTVFDcRr,@AdamSchefter N...",
+      "text": "@gaganghotra_ @JohnMu to be fair,no one can understand me - according to my wife,So it seems @johnmu can finally understand me now https://t.co/qmkUYMmQS6 https://t.co/xZqrmSbnTo,Well,I'm sure that si...",
       "created_at": "2025-09-05T01:02:17.000Z",
       "url": "https://twitter.com/YoungbloodJoe/status/1963769623364387204"
-    },
-    {
-      "id": "1963546209764638915",
-      "username": "glenngabe",
-      "name": "Glenn Gabe",
-      "text": "@amritwt My bad for setting the bar high,Marie Haynes digging through the Google Antitrust ruling for SEO gems\n\nShe has many like this. Check out her profile... https://t.co/viTTVFDcRr,@AdamSchefter N...",
-      "created_at": "2025-09-04T10:14:31.000Z",
-      "url": "https://twitter.com/glenngabe/status/1963546209764638915"
-    },
-    {
-      "id": "1963542064949277178",
-      "username": "rustybrick",
-      "name": "Barry Schwartz",
-      "text": "@amritwt My bad for setting the bar high,Marie Haynes digging through the Google Antitrust ruling for SEO gems\n\nShe has many like this. Check out her profile... https://t.co/viTTVFDcRr,@AdamSchefter N...",
-      "created_at": "2025-09-04T09:58:03.000Z",
-      "url": "https://twitter.com/rustybrick/status/1963542064949277178"
     }
   ],
   "raw_data": [
     {
+      "id": "1963950279713251769",
+      "username": "rustybrick",
+      "name": "Barry Schwartz",
+      "text": "@gaganghotra_ @JohnMu to be fair,no one can understand me - according to my wife,So it seems @johnmu can finally understand me now https://t.co/qmkUYMmQS6 https://t.co/xZqrmSbnTo,Well,I'm sure that si...",
+      "created_at": "2025-09-05T13:00:09.000Z",
+      "url": "https://twitter.com/rustybrick/status/1963950279713251769"
+    },
+    {
+      "id": "1963947875764752783",
+      "username": "rustybrick",
+      "name": "Barry Schwartz",
+      "text": "@gaganghotra_ @JohnMu to be fair,no one can understand me - according to my wife,So it seems @johnmu can finally understand me now https://t.co/qmkUYMmQS6 https://t.co/xZqrmSbnTo,Well,I'm sure that si...",
+      "created_at": "2025-09-05T12:50:36.000Z",
+      "url": "https://twitter.com/rustybrick/status/1963947875764752783"
+    },
+    {
+      "id": "1963947474638229587",
+      "username": "glenngabe",
+      "name": "Glenn Gabe",
+      "text": "@gaganghotra_ @JohnMu to be fair,no one can understand me - according to my wife,So it seems @johnmu can finally understand me now https://t.co/qmkUYMmQS6 https://t.co/xZqrmSbnTo,Well,I'm sure that si...",
+      "created_at": "2025-09-05T12:49:00.000Z",
+      "url": "https://twitter.com/glenngabe/status/1963947474638229587"
+    },
+    {
+      "id": "1963944112727458037",
+      "username": "glenngabe",
+      "name": "Glenn Gabe",
+      "text": "@gaganghotra_ @JohnMu to be fair,no one can understand me - according to my wife,So it seems @johnmu can finally understand me now https://t.co/qmkUYMmQS6 https://t.co/xZqrmSbnTo,Well,I'm sure that si...",
+      "created_at": "2025-09-05T12:35:39.000Z",
+      "url": "https://twitter.com/glenngabe/status/1963944112727458037"
+    },
+    {
+      "id": "1963938980526719437",
+      "username": "rustybrick",
+      "name": "Barry Schwartz",
+      "text": "@gaganghotra_ @JohnMu to be fair,no one can understand me - according to my wife,So it seems @johnmu can finally understand me now https://t.co/qmkUYMmQS6 https://t.co/xZqrmSbnTo,Well,I'm sure that si...",
+      "created_at": "2025-09-05T12:15:15.000Z",
+      "url": "https://twitter.com/rustybrick/status/1963938980526719437"
+    },
+    {
       "id": "1963795756126490689",
       "username": "YoungbloodJoe",
       "name": "Joe Youngblood - SEO",
-      "text": "@amritwt My bad for setting the bar high,Marie Haynes digging through the Google Antitrust ruling for SEO gems\n\nShe has many like this. Check out her profile... https://t.co/viTTVFDcRr,@AdamSchefter N...",
+      "text": "@gaganghotra_ @JohnMu to be fair,no one can understand me - according to my wife,So it seems @johnmu can finally understand me now https://t.co/qmkUYMmQS6 https://t.co/xZqrmSbnTo,Well,I'm sure that si...",
       "created_at": "2025-09-05T02:46:08.000Z",
       "url": "https://twitter.com/YoungbloodJoe/status/1963795756126490689"
     },
@@ -94,7 +158,7 @@
       "id": "1963780641583157721",
       "username": "CyrusShepard",
       "name": "Cyrus SEO",
-      "text": "@amritwt My bad for setting the bar high,Marie Haynes digging through the Google Antitrust ruling for SEO gems\n\nShe has many like this. Check out her profile... https://t.co/viTTVFDcRr,@AdamSchefter N...",
+      "text": "@gaganghotra_ @JohnMu to be fair,no one can understand me - according to my wife,So it seems @johnmu can finally understand me now https://t.co/qmkUYMmQS6 https://t.co/xZqrmSbnTo,Well,I'm sure that si...",
       "created_at": "2025-09-05T01:46:04.000Z",
       "url": "https://twitter.com/CyrusShepard/status/1963780641583157721"
     },
@@ -102,7 +166,7 @@
       "id": "1963772820359463015",
       "username": "YoungbloodJoe",
       "name": "Joe Youngblood - SEO",
-      "text": "@amritwt My bad for setting the bar high,Marie Haynes digging through the Google Antitrust ruling for SEO gems\n\nShe has many like this. Check out her profile... https://t.co/viTTVFDcRr,@AdamSchefter N...",
+      "text": "@gaganghotra_ @JohnMu to be fair,no one can understand me - according to my wife,So it seems @johnmu can finally understand me now https://t.co/qmkUYMmQS6 https://t.co/xZqrmSbnTo,Well,I'm sure that si...",
       "created_at": "2025-09-05T01:15:00.000Z",
       "url": "https://twitter.com/YoungbloodJoe/status/1963772820359463015"
     },
@@ -110,25 +174,9 @@
       "id": "1963769623364387204",
       "username": "YoungbloodJoe",
       "name": "Joe Youngblood - SEO",
-      "text": "@amritwt My bad for setting the bar high,Marie Haynes digging through the Google Antitrust ruling for SEO gems\n\nShe has many like this. Check out her profile... https://t.co/viTTVFDcRr,@AdamSchefter N...",
+      "text": "@gaganghotra_ @JohnMu to be fair,no one can understand me - according to my wife,So it seems @johnmu can finally understand me now https://t.co/qmkUYMmQS6 https://t.co/xZqrmSbnTo,Well,I'm sure that si...",
       "created_at": "2025-09-05T01:02:17.000Z",
       "url": "https://twitter.com/YoungbloodJoe/status/1963769623364387204"
-    },
-    {
-      "id": "1963546209764638915",
-      "username": "glenngabe",
-      "name": "Glenn Gabe",
-      "text": "@amritwt My bad for setting the bar high,Marie Haynes digging through the Google Antitrust ruling for SEO gems\n\nShe has many like this. Check out her profile... https://t.co/viTTVFDcRr,@AdamSchefter N...",
-      "created_at": "2025-09-04T10:14:31.000Z",
-      "url": "https://twitter.com/glenngabe/status/1963546209764638915"
-    },
-    {
-      "id": "1963542064949277178",
-      "username": "rustybrick",
-      "name": "Barry Schwartz",
-      "text": "@amritwt My bad for setting the bar high,Marie Haynes digging through the Google Antitrust ruling for SEO gems\n\nShe has many like this. Check out her profile... https://t.co/viTTVFDcRr,@AdamSchefter N...",
-      "created_at": "2025-09-04T09:58:03.000Z",
-      "url": "https://twitter.com/rustybrick/status/1963542064949277178"
     }
   ]
 }
