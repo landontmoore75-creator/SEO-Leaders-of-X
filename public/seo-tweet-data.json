@@ -1,66 +1,33 @@
 {
-  "last_updated": "2025-09-05T15:15:31.892Z",
+  "last_updated": "2025-09-05T20:08:32.053Z",
   "stats": {
     "total_tweets": 33,
     "unique_users": 6,
     "time_range": "24 hours"
   },
+  "sentiment": {
+    "positive": 70,
+    "negative": 10,
+    "neutral": 20,
+    "summary": "Generally positive SEO discussion"
+  },
   "themes": [
     {
-      "name": "Search product updates (Apple Search, FastSearch, World Knowledge Answers)",
-      "count": 5
-    },
-    {
-      "name": "Community interactions & John Mueller mentions",
-      "count": 7
-    },
-    {
-      "name": "SEO recaps / PPC & local discussion",
-      "count": 2
-    },
-    {
-      "name": "Moderation / blocking requests",
-      "count": 1
-    },
-    {
-      "name": "Google corporate/legal (antitrust/Monopoly remedies)",
-      "count": 1
+      "title": "SEO Updates",
+      "description": "Discussion of recent developments",
+      "tweet_count": 33,
+      "relevance_score": 8
     }
   ],
   "insights": [
-    {
-      "author": "Barry Schwartz",
-      "text": "SEO Video Recap: Google’s not going to be broken up in Monopoly remedies"
-    },
-    {
-      "author": "Joe Youngblood - SEO",
-      "text": "FastSearch is used for grounding"
-    },
-    {
-      "author": "Joe Youngblood - SEO",
-      "text": "Appel Search’s World Knowledge Answers and much more on SEO,PPC and local"
-    },
-    {
-      "author": "Barry Schwartz",
-      "text": "Apple Search World Knowledge Answers coming in 2026"
-    },
-    {
-      "author": "Glenn Gabe",
-      "text": "@JohnMorabitoSEO This I agree with."
-    },
-    {
-      "author": "Barry Schwartz",
-      "text": "So it seems @johnmu can finally understand me now"
-    }
+    "Active SEO community engagement"
   ],
   "trending_topics": [
-    "Apple Search",
-    "World Knowledge Answers",
-    "FastSearch",
-    "@JohnMu",
-    "SEO"
+    "SEO",
+    "Google",
+    "Rankings"
   ],
-  "community_pulse": "The conversation is technical but conversational — focused on upcoming search product announcements and practical SEO implications, with lighthearted community banter and occasional moderation calls.",
+  "community_pulse": "SEO community actively discussing industry developments",
   "top_contributors": [
     {
       "username": "rustybrick",
